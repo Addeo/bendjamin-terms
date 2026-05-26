@@ -1,0 +1,654 @@
+{
+  "pageTitle": "Bendgamine — Servicevoorwaarden",
+  "title": "Servicevoorwaarden",
+  "effectiveDateLabel": "Ingangsdatum",
+  "effectiveDate": "[TBD — Date of Launch]",
+  "lastUpdatedLabel": "Laatst bijgewerkt",
+  "lastUpdated": "[TBD]",
+  "versionLabel": "Versie",
+  "version": "1.0",
+  "footer": "© Bendgamine. Alle rechten voorbehouden.",
+  "legalNotice": "Deze Servicevoorwaarden zijn gebaseerd op best practices uit de sector en wettelijke vereisten. Ze moeten vóór implementatie worden beoordeeld door een gekwalificeerde juridisch adviseur.",
+  "sections": [
+    {
+      "num": 1,
+      "title": "Akkoord met voorwaarden",
+      "blocks": [
+        {
+          "type": "P",
+          "text": "Door Bendgamine (\"Service\", \"App\", \"Platform\") te openen en te gebruiken, gaat u ermee akkoord gebonden te zijn aan deze Servicevoorwaarden (\"Voorwaarden\"). Als u het niet eens bent met enig onderdeel van deze voorwaarden, heeft u geen toegang tot de Service."
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine is een digitaal zelfverbeteringsplatform gebaseerd op de deugdontwikkelingsmethodologie van Benjamin Franklin."
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Beschrijving van de dienst",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "2.1 Kernfunctionaliteit"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine biedt:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Digitale implementatie van het 13 deugdensysteem van Benjamin Franklin",
+            "Interface voor wekelijkse planning en actieregistratie",
+            "Gepersonaliseerde aanbevelingen op basis van AI",
+            "Voortgangsanalyse en rapportage",
+            "Op maat gemaakte deugdcreatie en projectmanagement"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "2.2 Beschikbaarheid van diensten"
+        },
+        {
+          "type": "P",
+          "text": "Wij streven ernaar om de Dienst 24/7 beschikbaar te houden, maar kunnen geen ononderbroken toegang garanderen. De Dienst kan tijdelijk niet beschikbaar zijn vanwege onderhoud, updates of technische problemen."
+        },
+        {
+          "type": "h3",
+          "text": "2.3 Abonnementsplannen"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Gratis abonnement: beperkte functionaliteit met basisfuncties",
+            "Premiumabonnement: verbeterde functies en AI-aanbevelingen",
+            "Pro Plan: Volledige functionaliteit met onbeperkte toegang"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Gebruikersaccounts en registratie",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "3.1 Account aanmaken"
+        },
+        {
+          "type": "P",
+          "text": "Om bepaalde functies te gebruiken, moet u een account aanmaken door het volgende op te geven:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Geldig e-mailadres",
+            "Veilig wachtwoord dat aan onze eisen voldoet",
+            "Voor- en achternaam",
+            "Acceptatie van deze voorwaarden en privacybeleid"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.2 Accountverantwoordelijkheid"
+        },
+        {
+          "type": "P",
+          "text": "Je bent verantwoordelijk voor:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Het handhaven van de vertrouwelijkheid van uw accountgegevens",
+            "Alle activiteiten die plaatsvinden onder uw account",
+            "Ons onmiddellijk op de hoogte stellen van elk ongeoorloofd gebruik",
+            "Zorgen voor de juistheid van uw accountgegevens"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.3 Leeftijdsvereisten"
+        },
+        {
+          "type": "P",
+          "text": "Om gebruik te kunnen maken van de Dienst moet u minimaal 13 jaar oud zijn. Gebruikers jonger dan 18 jaar hebben toestemming van hun ouders nodig."
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Beleid voor acceptabel gebruik",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "4.1 Toegestaan ​​gebruik"
+        },
+        {
+          "type": "P",
+          "text": "U kunt de Dienst gebruiken voor:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Persoonlijke zelfverbetering en deugdontwikkeling",
+            "Het bijhouden van uw dagelijkse acties en voortgang",
+            "Persoonlijke doelen stellen en behalen",
+            "Toegang tot door AI gegenereerde inzichten en aanbevelingen"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.2 Verboden activiteiten"
+        },
+        {
+          "type": "P",
+          "text": "U mag niet:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Het overtreden van toepasselijke wet- of regelgeving",
+            "Inbreuk maken op intellectuele eigendomsrechten",
+            "Upload kwaadaardige code of probeer de Service te hacken",
+            "Maak meerdere accounts aan om beperkingen te omzeilen",
+            "Deel accountgegevens met anderen",
+            "Gebruik de Dienst zonder toestemming voor commerciële doeleinden",
+            "Andere gebruikers lastigvallen, misbruiken of schade toebrengen",
+            "Probeer de service te reverse-engineeren"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.3 Inhoudsnormen"
+        },
+        {
+          "type": "P",
+          "text": "Alle inhoud die u indient, moet:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Wees uw eigen originele creatie of met de juiste licentie",
+            "Geen illegaal, schadelijk of aanstootgevend materiaal bevatten",
+            "Respecteer de privacy en rechten van anderen",
+            "Voldoe aan onze communityrichtlijnen"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Intellectuele eigendomsrechten",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "5.1 Onze rechten"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine bezit alle rechten op:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Het serviceplatform en de software",
+            "Implementatie van Franklins deugdmethodologie",
+            "AI-algoritmen en aanbevelingssystemen",
+            "Handelsmerken, logo's en branding",
+            "Alle servicegerelateerde inhoud en materialen"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.2 Uw rechten"
+        },
+        {
+          "type": "P",
+          "text": "U behoudt het eigendom van:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Persoonlijke gegevens en inhoud die u maakt",
+            "Uw deugdregistratiegegevens en voortgang",
+            "Aangepaste deugden en persoonlijke reflecties",
+            "Alle originele inhoud die u indient"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.3 Licentieverlening"
+        },
+        {
+          "type": "P",
+          "text": "Door de Dienst te gebruiken, verleent u ons een beperkte licentie om:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Verwerk uw gegevens om de Dienst te verlenen",
+            "Genereer AI-aanbevelingen op basis van uw gebruikspatronen",
+            "Creëer geanonimiseerde analyses voor serviceverbetering",
+            "Geef uw inhoud weer binnen de Service-interface"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Privacy en gegevensbescherming",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "6.1 Privacybeleid"
+        },
+        {
+          "type": "P",
+          "text": "Uw privacy is belangrijk voor ons. Lees ons Privacybeleid, dat ook van toepassing is op uw gebruik van de Dienst."
+        },
+        {
+          "type": "h3",
+          "text": "6.2 Gegevensverzameling"
+        },
+        {
+          "type": "P",
+          "text": "We verzamelen en verwerken gegevens zoals beschreven in ons privacybeleid, waaronder:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Accountinformatie en voorkeuren",
+            "Virtue-trackinggegevens en dagelijkse acties",
+            "Gebruikspatronen en analyses",
+            "Apparaat- en technische informatie"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "6.3 Gegevensbeveiliging"
+        },
+        {
+          "type": "P",
+          "text": "We implementeren industriestandaard beveiligingsmaatregelen om uw gegevens te beschermen, waaronder encryptie, veilige opslag en toegangscontrole."
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Abonnementsvoorwaarden en facturering",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "7.1 Abonnementsplannen"
+        },
+        {
+          "type": "P",
+          "text": "Gedetailleerde informatie over onze abonnementen, functies en prijzen is beschikbaar op onze website en binnen de Service."
+        },
+        {
+          "type": "h3",
+          "text": "7.2 Gratis proefperiode"
+        },
+        {
+          "type": "P",
+          "text": "Nieuwe gebruikers komen mogelijk in aanmerking voor een gratis proefperiode. De proefvoorwaarden worden duidelijk bekendgemaakt bij aanmelding."
+        },
+        {
+          "type": "h3",
+          "text": "7.3 Facturering en betaling"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Abonnementen worden maandelijks of jaarlijks vooraf gefactureerd",
+            "De betaling is onmiddellijk verschuldigd na activering van het abonnement",
+            "We gebruiken externe betalingsverwerkers (Stripe) voor veilige transacties",
+            "Alle kosten zijn niet-restitueerbaar, behalve zoals vereist door de wet of ons restitutiebeleid"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "7.4 Automatische verlenging"
+        },
+        {
+          "type": "P",
+          "text": "Abonnementen worden automatisch verlengd, tenzij ze vóór de verlengingsdatum worden opgezegd. U kunt op elk gewenst moment opzeggen via uw accountinstellingen."
+        },
+        {
+          "type": "h3",
+          "text": "7.5 Prijswijzigingen"
+        },
+        {
+          "type": "P",
+          "text": "We kunnen de abonnementsprijzen wijzigen met een opzegtermijn van 30 dagen. Wijzigingen zijn van toepassing op volgende factureringscycli."
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title": "Annulering en beëindiging",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "8.1 Uw recht om te annuleren"
+        },
+        {
+          "type": "P",
+          "text": "U kunt uw abonnement op elk gewenst moment opzeggen via uw accountinstellingen. De annulering wordt van kracht aan het einde van uw huidige factureringsperiode."
+        },
+        {
+          "type": "h3",
+          "text": "8.2 Ons recht om te beëindigen"
+        },
+        {
+          "type": "P",
+          "text": "We kunnen uw account opschorten of beëindigen als u:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Schend deze Servicevoorwaarden",
+            "Deelnemen aan frauduleuze of illegale activiteiten",
+            "De veiligheid of integriteit van de Dienst in gevaar brengen",
+            "Het niet betalen van de vereiste kosten"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "8.3 Gevolgen van beëindiging"
+        },
+        {
+          "type": "P",
+          "text": "Bij beëindiging:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Uw toegang tot de Dienst stopt",
+            "Wij kunnen uw account en gegevens na een redelijke termijn verwijderen",
+            "U kunt vóór beëindiging een gegevensexport aanvragen",
+            "Bepaalde bepalingen van deze Voorwaarden blijven van kracht na beëindiging"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "title": "AI en geautomatiseerde besluitvorming",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "9.1 AI-aanbevelingen"
+        },
+        {
+          "type": "P",
+          "text": "Onze Dienst maakt gebruik van kunstmatige intelligentie om gepersonaliseerde aanbevelingen te doen op basis van:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Uw deugdvolgpatronen",
+            "Geschiedenis van doelrealisatie",
+            "Gebruiksgedrag en voorkeuren",
+            "Geanonimiseerde gegevens van andere gebruikers"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.2 AI-beperkingen"
+        },
+        {
+          "type": "P",
+          "text": "AI-aanbevelingen zijn:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Alleen suggesties, geen professioneel advies",
+            "Gebaseerd op algoritmische analyse, niet op menselijke expertise",
+            "Onder voorbehoud van fouten en beperkingen",
+            "Niet geschikt voor medische, therapeutische of professionele begeleiding"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.3 Menselijk toezicht"
+        },
+        {
+          "type": "P",
+          "text": "U erkent dat:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "AI-systemen kunnen fouten maken",
+            "Je bent verantwoordelijk voor het evalueren en opvolgen van aanbevelingen",
+            "Bij ernstige problemen dient u gekwalificeerde professionals te raadplegen",
+            "We kunnen de nauwkeurigheid van door AI gegenereerde inhoud niet garanderen"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "title": "Disclaimers en beperkingen",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "10.1 Servicedisclaimer"
+        },
+        {
+          "type": "doppen",
+          "text": "DE DIENST WORDT GELEVERD \"AS IS\" ZONDER ENIGE GARANTIE. WIJ WIJZEN ALLE GARANTIES, EXPLICIET OF IMPLICIET, AF, INCLUSIEF VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN NIET-INBREUK."
+        },
+        {
+          "type": "h3",
+          "text": "10.2 Geen professioneel advies"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine is geen vervanging voor:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Professionele psychologische of therapeutische diensten",
+            "Medisch advies of behandeling",
+            "Financieel of juridisch advies",
+            "Studie- of loopbaanbegeleiding"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "10.3 Resultatendisclaimer"
+        },
+        {
+          "type": "P",
+          "text": "Wij garanderen niet dat het gebruik van de Dienst:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Verbeter uw persoonlijke ontwikkelingsresultaten",
+            "Behaal specifieke doelen of resultaten",
+            "Geef nauwkeurige voorspellingen over uw voortgang",
+            "Vervang professionele begeleiding of behandeling"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "title": "Beperking van aansprakelijkheid",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "11.1 Aansprakelijkheidslimieten"
+        },
+        {
+          "type": "doppen",
+          "text": "VOOR ZOVER MAXIMAAL TOEGESTAAN DOOR DE WET, ZAL ONZE AANSPRAKELIJKHEID NIET HOGER ZIJN DAN HET BEDRAG DAT U VOOR DE DIENST HEBT BETAALD IN DE 12 MAANDEN VOORAFGAAND AAN DE CLAIM."
+        },
+        {
+          "type": "h3",
+          "text": "11.2 Uitgesloten schade"
+        },
+        {
+          "type": "P",
+          "text": "WIJ ZIJN NIET AANSPRAKELIJK VOOR:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "INDIRECTE, INCIDENTELE OF GEVOLGSCHADE",
+            "VERLIES VAN WINST, GEGEVENS OF ZAKELIJKE KANSEN",
+            "PERSOONLIJK LETSEL OF EMOTIONEEL NOOD",
+            "SCHADE ALS GEVOLG VAN DIENSTONDERBREKINGEN"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "11.3 Overmacht"
+        },
+        {
+          "type": "P",
+          "text": "Wij zijn niet aansprakelijk voor vertragingen of storingen als gevolg van omstandigheden die buiten onze redelijke controle liggen, waaronder natuurrampen, overheidsacties of storingen in de technische infrastructuur."
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "title": "Schadeloosstelling",
+      "blocks": [
+        {
+          "type": "P",
+          "text": "U stemt ermee in ons schadeloos te stellen en te vrijwaren van claims die voortkomen uit:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Uw gebruik van de Dienst",
+            "Schending van deze Voorwaarden",
+            "Inbreuk op rechten van derden",
+            "Uw inhoud of activiteiten op de Dienst"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "title": "Geschillenbeslechting",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "13.1 Toepasselijk recht"
+        },
+        {
+          "type": "P",
+          "text": "Op deze Voorwaarden is het recht van [Jurisdictie – Nader te bepalen] van toepassing, zonder rekening te houden met conflicterende wettelijke principes."
+        },
+        {
+          "type": "h3",
+          "text": "13.2 Arbitrage"
+        },
+        {
+          "type": "P",
+          "text": "Eventuele geschillen zullen worden opgelost via bindende arbitrage in plaats van via een gerechtelijke procedure, met uitzondering van:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Geschillen over intellectueel eigendom",
+            "Rechtbankzaken voor kleine vorderingen",
+            "Verzoeken om voorlopige voorziening"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "13.3 Ontheffing van groepsvorderingen"
+        },
+        {
+          "type": "P",
+          "text": "U gaat ermee akkoord niet deel te nemen aan class action-rechtszaken tegen ons."
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "title": "Algemene bepalingen",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "14.1 Gehele Overeenkomst"
+        },
+        {
+          "type": "P",
+          "text": "Deze Voorwaarden vormen, samen met ons Privacybeleid en eventuele aanvullende voorwaarden, de volledige overeenkomst tussen u en Bendgamine."
+        },
+        {
+          "type": "h3",
+          "text": "14.2 Wijziging van voorwaarden"
+        },
+        {
+          "type": "P",
+          "text": "Wij kunnen deze Voorwaarden wijzigen door:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Het plaatsen van bijgewerkte voorwaarden op onze website",
+            "Kennisgeving via de Service of e-mail",
+            "Acceptatie van nieuwe Voorwaarden vereisen voor voortgezet gebruik"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "14.3 Scheidbaarheid"
+        },
+        {
+          "type": "P",
+          "text": "Als een bepaling van deze Voorwaarden niet-afdwingbaar wordt bevonden, blijven de overige bepalingen volledig van kracht."
+        },
+        {
+          "type": "h3",
+          "text": "14.4 Opdracht"
+        },
+        {
+          "type": "P",
+          "text": "Wij kunnen deze Voorwaarden toewijzen aan een gelieerde onderneming of opvolger. U mag uw rechten niet overdragen zonder onze schriftelijke toestemming."
+        },
+        {
+          "type": "h3",
+          "text": "14.5 Ontheffing"
+        },
+        {
+          "type": "P",
+          "text": "Ons onvermogen om enige bepaling af te dwingen houdt geen afstand van onze rechten in."
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "num": 15,
+    "title": "Contactgegevens",
+    "intro": "Voor vragen over deze Servicevoorwaarden:",
+    "emailLabel": "E-mail",
+    "email": "legal@bendgamine.com",
+    "addressLabel": "Adres",
+    "address": "[Company Address — TBD]",
+    "supportLabel": "Steun",
+    "support": "supp0rt.serg@yandex.com"
+  },
+  "acknowledgment": {
+    "num": 16,
+    "title": "Erkenning",
+    "intro": "Door Bendgamine te gebruiken, erkent u dat:",
+    "items": [
+      "U heeft deze Voorwaarden gelezen en begrepen",
+      "U gaat ermee akkoord gebonden te zijn aan deze Voorwaarden",
+      "U bent wettelijk in staat deze overeenkomst aan te gaan",
+      "Je voldoet aan alle toepasselijke wet- en regelgeving"
+    ]
+  }
+}

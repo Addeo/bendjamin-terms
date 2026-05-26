@@ -1,0 +1,654 @@
+{
+  "pageTitle": "Bendgamine — Termos de Serviço",
+  "title": "Termos de Serviço",
+  "effectiveDateLabel": "Data Efetiva",
+  "effectiveDate": "[TBD — Date of Launch]",
+  "lastUpdatedLabel": "Última atualização",
+  "lastUpdated": "[TBD]",
+  "versionLabel": "Versão",
+  "version": "1.0",
+  "footer": "© Bendgamine. Todos os direitos reservados.",
+  "legalNotice": "Estes Termos de Serviço baseiam-se nas melhores práticas do setor e nos requisitos legais. Devem ser revistos por um consultor jurídico qualificado antes da implementação.",
+  "sections": [
+    {
+      "num": 1,
+      "title": "Acordo com os Termos",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ao acessar e usar o Bendgamine (\"Serviço\", \"Aplicativo\", \"Plataforma\"), você concorda em ficar vinculado a estes Termos de Serviço (\"Termos\"). Se você discordar de qualquer parte destes termos, você não poderá acessar o Serviço."
+        },
+        {
+          "type": "p",
+          "text": "Bendgamine é uma plataforma digital de autoaperfeiçoamento baseada na metodologia de desenvolvimento de virtudes de Benjamin Franklin."
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Descrição do Serviço",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "2.1 Funcionalidade Principal"
+        },
+        {
+          "type": "p",
+          "text": "Bendgamine fornece:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Implementação digital do sistema das 13 virtudes de Benjamin Franklin",
+            "Interface semanal de planejamento e acompanhamento de ações",
+            "Recomendações personalizadas baseadas em IA",
+            "Análise e relatórios de progresso",
+            "Criação de virtudes personalizadas e gerenciamento de projetos"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "2.2 Disponibilidade do Serviço"
+        },
+        {
+          "type": "p",
+          "text": "Nós nos esforçamos para manter o Serviço disponível 24 horas por dia, 7 dias por semana, mas não podemos garantir acesso ininterrupto. O Serviço pode estar temporariamente indisponível devido a manutenção, atualizações ou problemas técnicos."
+        },
+        {
+          "type": "h3",
+          "text": "2.3 Planos de Assinatura"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Plano Gratuito: Funcionalidade limitada com recursos básicos",
+            "Plano Premium: recursos aprimorados e recomendações de IA",
+            "Plano Pro: funcionalidade completa com acesso ilimitado"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Contas de usuário e registro",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "3.1 Criação de conta"
+        },
+        {
+          "type": "p",
+          "text": "Para usar determinados recursos, você deve criar uma conta fornecendo:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Endereço de Email Válido",
+            "Senha segura que atende aos nossos requisitos",
+            "Nome e sobrenome",
+            "Aceitação destes Termos e Política de Privacidade"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.2 Responsabilidade da conta"
+        },
+        {
+          "type": "p",
+          "text": "Você é responsável por:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Manter a confidencialidade das credenciais da sua conta",
+            "Todas as atividades que ocorrem em sua conta",
+            "Notificar-nos imediatamente sobre qualquer uso não autorizado",
+            "Garantindo a precisão das informações da sua conta"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.3 Requisitos de idade"
+        },
+        {
+          "type": "p",
+          "text": "Você deve ter pelo menos 13 anos de idade para usar o Serviço. Usuários menores de 18 anos necessitam de consentimento dos pais."
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Política de uso aceitável",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "4.1 Usos Permitidos"
+        },
+        {
+          "type": "p",
+          "text": "Você pode usar o Serviço para:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Autoaperfeiçoamento pessoal e desenvolvimento de virtudes",
+            "Acompanhando suas ações diárias e progresso",
+            "Definir e alcançar objetivos pessoais",
+            "Acessando insights e recomendações gerados por IA"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.2 Atividades Proibidas"
+        },
+        {
+          "type": "p",
+          "text": "Você não pode:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Violar quaisquer leis ou regulamentos aplicáveis",
+            "Violar direitos de propriedade intelectual",
+            "Carregar código malicioso ou tentar hackear o Serviço",
+            "Crie várias contas para contornar as limitações",
+            "Compartilhe credenciais de conta com outras pessoas",
+            "Usar o Serviço para fins comerciais sem autorização",
+            "Assediar, abusar ou prejudicar outros usuários",
+            "Tentativa de engenharia reversa do Serviço"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.3 Padrões de Conteúdo"
+        },
+        {
+          "type": "p",
+          "text": "Todo o conteúdo que você enviar deve:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Seja sua própria criação original ou devidamente licenciada",
+            "Não conter material ilegal, prejudicial ou ofensivo",
+            "Respeite a privacidade e os direitos dos outros",
+            "Cumpra as nossas Diretrizes da Comunidade"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Direitos de Propriedade Intelectual",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "5.1 Nossos Direitos"
+        },
+        {
+          "type": "p",
+          "text": "Bendgamine detém todos os direitos sobre:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "A plataforma de serviço e software",
+            "Implementação da metodologia de virtude de Franklin",
+            "Algoritmos de IA e sistemas de recomendação",
+            "Marcas registradas, logotipos e branding",
+            "Todo o conteúdo e materiais relacionados ao Serviço"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.2 Seus direitos"
+        },
+        {
+          "type": "p",
+          "text": "Você mantém a propriedade de:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Dados pessoais e conteúdo que você cria",
+            "Seus dados de rastreamento de virtude e progresso",
+            "Virtudes personalizadas e reflexões pessoais",
+            "Qualquer conteúdo original que você enviar"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.3 Concessão de Licença"
+        },
+        {
+          "type": "p",
+          "text": "Ao usar o Serviço, você nos concede uma licença limitada para:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Processar seus dados para fornecer o Serviço",
+            "Gere recomendações de IA com base em seus padrões de uso",
+            "Crie análises anônimas para melhoria do serviço",
+            "Exiba seu conteúdo na interface do serviço"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Privacidade e proteção de dados",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "6.1 Política de Privacidade"
+        },
+        {
+          "type": "p",
+          "text": "Sua privacidade é importante para nós. Por favor, revise nossa Política de Privacidade, que também rege o uso do Serviço."
+        },
+        {
+          "type": "h3",
+          "text": "6.2 Coleta de Dados"
+        },
+        {
+          "type": "p",
+          "text": "Coletamos e processamos dados conforme descrito em nossa Política de Privacidade, incluindo:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Informações e preferências da conta",
+            "Dados de rastreamento de virtude e ações diárias",
+            "Padrões de uso e análises",
+            "Dispositivo e informações técnicas"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "6.3 Segurança de Dados"
+        },
+        {
+          "type": "p",
+          "text": "Implementamos medidas de segurança padrão do setor para proteger seus dados, incluindo criptografia, armazenamento seguro e controles de acesso."
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Termos de assinatura e cobrança",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "7.1 Planos de Assinatura"
+        },
+        {
+          "type": "p",
+          "text": "Informações detalhadas sobre nossos planos de assinatura, recursos e preços estão disponíveis em nosso site e no Serviço."
+        },
+        {
+          "type": "h3",
+          "text": "7.2 Avaliação Gratuita"
+        },
+        {
+          "type": "p",
+          "text": "Novos usuários podem ser elegíveis para um período de teste gratuito. Os termos do teste serão divulgados claramente na inscrição."
+        },
+        {
+          "type": "h3",
+          "text": "7.3 Faturamento e Pagamento"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "As assinaturas são cobradas antecipadamente mensalmente ou anualmente",
+            "O pagamento é devido imediatamente após a ativação da assinatura",
+            "Usamos processadores de pagamento de terceiros (Stripe) para transações seguras",
+            "Todas as taxas não são reembolsáveis, exceto conforme exigido por lei ou pela nossa Política de Reembolso"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "7.4 Renovação Automática"
+        },
+        {
+          "type": "p",
+          "text": "As assinaturas são renovadas automaticamente, a menos que sejam canceladas antes da data de renovação. Você pode cancelar a qualquer momento através das configurações da sua conta."
+        },
+        {
+          "type": "h3",
+          "text": "7.5 Alterações de Preço"
+        },
+        {
+          "type": "p",
+          "text": "Poderemos modificar os preços da assinatura com aviso prévio de 30 dias. As alterações se aplicam aos ciclos de faturamento subsequentes."
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title": "Cancelamento e Rescisão",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "8.1 Seu direito de cancelar"
+        },
+        {
+          "type": "p",
+          "text": "Você pode cancelar sua assinatura a qualquer momento através das configurações da sua conta. O cancelamento entra em vigor no final do seu período de faturamento atual."
+        },
+        {
+          "type": "h3",
+          "text": "8.2 Nosso direito de rescisão"
+        },
+        {
+          "type": "p",
+          "text": "Poderemos suspender ou encerrar sua conta se você:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Violar estes Termos de Serviço",
+            "Envolver-se em atividades fraudulentas ou ilegais",
+            "Comprometer a segurança ou integridade do Serviço",
+            "Deixar de pagar as taxas exigidas"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "8.3 Efeito da Rescisão"
+        },
+        {
+          "type": "p",
+          "text": "Após a rescisão:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Seu acesso ao Serviço cessará",
+            "Poderemos excluir sua conta e dados após um período razoável",
+            "Você pode solicitar a exportação de dados antes do encerramento",
+            "Certas disposições destes Termos sobreviverão à rescisão"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "title": "IA e tomada de decisão automatizada",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "9.1 Recomendações de IA"
+        },
+        {
+          "type": "p",
+          "text": "Nosso serviço usa inteligência artificial para fornecer recomendações personalizadas com base em:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Seus padrões de rastreamento de virtude",
+            "Histórico de cumprimento de metas",
+            "Comportamento e preferências de uso",
+            "Dados anonimizados de outros usuários"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.2 Limitações de IA"
+        },
+        {
+          "type": "p",
+          "text": "As recomendações de IA são:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Apenas sugestões, não conselhos profissionais",
+            "Baseado em análise algorítmica, não em experiência humana",
+            "Sujeito a erros e limitações",
+            "Não é adequado para orientação médica, terapêutica ou profissional"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.3 Supervisão Humana"
+        },
+        {
+          "type": "p",
+          "text": "Você reconhece que:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Os sistemas de IA podem cometer erros",
+            "Você é responsável por avaliar e agir de acordo com as recomendações",
+            "Você deve consultar profissionais qualificados para preocupações sérias",
+            "Não garantimos a precisão do conteúdo gerado por IA"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "title": "Isenções de responsabilidade e limitações",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "10.1 Isenção de responsabilidade de serviço"
+        },
+        {
+          "type": "bonés",
+          "text": "O SERVIÇO É FORNECIDO \"COMO ESTÁ\" SEM GARANTIAS DE QUALQUER TIPO. RENUNCIAMOS TODAS AS GARANTIAS, EXPRESSAS OU IMPLÍCITAS, INCLUINDO COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO."
+        },
+        {
+          "type": "h3",
+          "text": "10.2 Nenhum aconselhamento profissional"
+        },
+        {
+          "type": "p",
+          "text": "Bendgamine não substitui:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Serviços psicológicos ou terapêuticos profissionais",
+            "Aconselhamento ou tratamento médico",
+            "Aconselhamento financeiro ou jurídico",
+            "Orientação educacional ou profissional"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "10.3 Isenção de responsabilidade de resultados"
+        },
+        {
+          "type": "p",
+          "text": "Não garantimos que o uso do Serviço irá:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Melhore seus resultados de desenvolvimento pessoal",
+            "Alcançar metas ou resultados específicos",
+            "Forneça previsões precisas sobre seu progresso",
+            "Substituir orientação ou tratamento profissional"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "title": "Limitação de responsabilidade",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "11.1 Limites de Responsabilidade"
+        },
+        {
+          "type": "bonés",
+          "text": "NA EXTENSÃO MÁXIMA PERMITIDA POR LEI, NOSSA RESPONSABILIDADE NÃO EXCEDERÁ O VALOR QUE VOCÊ PAGOU PELO SERVIÇO NOS 12 MESES ANTERIORES À RECLAMAÇÃO."
+        },
+        {
+          "type": "h3",
+          "text": "11.2 Danos Excluídos"
+        },
+        {
+          "type": "p",
+          "text": "NÃO SEREMOS RESPONSÁVEIS POR:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "DANOS INDIRETOS, INCIDENTAIS OU CONSEQUENCIAIS",
+            "PERDA DE LUCROS, DADOS OU OPORTUNIDADES DE NEGÓCIOS",
+            "LESÕES PESSOAIS OU ANGÚSTIA EMOCIONAL",
+            "DANOS DECORRENTES DE INTERRUPÇÕES DE SERVIÇO"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "11.3 Força Maior"
+        },
+        {
+          "type": "p",
+          "text": "Não somos responsáveis ​​por atrasos ou falhas devido a circunstâncias fora do nosso controle razoável, incluindo desastres naturais, ações governamentais ou falhas de infraestrutura técnica."
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "title": "Indenização",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Você concorda em nos indenizar e isentar de reclamações decorrentes de:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Seu uso do Serviço",
+            "Violação destes Termos",
+            "Violação de direitos de terceiros",
+            "Seu conteúdo ou atividades no Serviço"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "title": "Resolução de disputas",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "13.1 Lei Aplicável"
+        },
+        {
+          "type": "p",
+          "text": "Estes Termos são regidos pelas leis de [Jurisdição - TBD], independentemente de conflitos de princípios legais."
+        },
+        {
+          "type": "h3",
+          "text": "13.2 Arbitragem"
+        },
+        {
+          "type": "p",
+          "text": "Quaisquer litígios serão resolvidos através de arbitragem vinculativa e não de processos judiciais, exceto:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Disputas de propriedade intelectual",
+            "Questões judiciais de pequenas causas",
+            "Pedidos de tutela cautelar"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "13.3 Renúncia a Ações Coletivas"
+        },
+        {
+          "type": "p",
+          "text": "Você concorda em não participar de ações judiciais coletivas contra nós."
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "title": "Disposições Gerais",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "14.1 Contrato Integral"
+        },
+        {
+          "type": "p",
+          "text": "Estes Termos, juntamente com a nossa Política de Privacidade e quaisquer termos adicionais, constituem o acordo integral entre você e a Bendgamine."
+        },
+        {
+          "type": "h3",
+          "text": "14.2 Modificação dos Termos"
+        },
+        {
+          "type": "p",
+          "text": "Podemos modificar estes Termos:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Publicação de Termos atualizados em nosso site",
+            "Fornecimento de aviso através do Serviço ou e-mail",
+            "Exigindo aceitação de novos Termos para uso continuado"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "14.3 Divisibilidade"
+        },
+        {
+          "type": "p",
+          "text": "Se qualquer disposição destes Termos for considerada inexequível, as restantes disposições continuarão em pleno vigor."
+        },
+        {
+          "type": "h3",
+          "text": "14.4 Atribuição"
+        },
+        {
+          "type": "p",
+          "text": "Poderemos atribuir estes Termos a qualquer afiliado ou sucessor. Você não pode ceder seus direitos sem nosso consentimento por escrito."
+        },
+        {
+          "type": "h3",
+          "text": "14.5 Renúncia"
+        },
+        {
+          "type": "p",
+          "text": "Nossa falha em fazer cumprir qualquer disposição não constitui uma renúncia aos nossos direitos."
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "num": 15,
+    "title": "Informações de contato",
+    "intro": "Para perguntas sobre estes Termos de Serviço:",
+    "emailLabel": "E-mail",
+    "email": "legal@bendgamine.com",
+    "addressLabel": "Endereço",
+    "address": "[Company Address — TBD]",
+    "supportLabel": "Apoiar",
+    "support": "supp0rt.serg@yandex.com"
+  },
+  "acknowledgment": {
+    "num": 16,
+    "title": "Reconhecimento",
+    "intro": "Ao usar o Bendgamine, você reconhece que:",
+    "items": [
+      "Você leu e entendeu estes Termos",
+      "Você concorda em ficar vinculado a estes Termos",
+      "Você é legalmente capaz de celebrar este contrato",
+      "Você cumprirá todas as leis e regulamentos aplicáveis"
+    ]
+  }
+}

@@ -1,0 +1,654 @@
+{
+  "pageTitle": "Bendgamine — Hizmet Şartları",
+  "title": "Hizmet Şartları",
+  "effectiveDateLabel": "Yürürlük Tarihi",
+  "effectiveDate": "[TBD — Date of Launch]",
+  "lastUpdatedLabel": "Son Güncelleme",
+  "lastUpdated": "[TBD]",
+  "versionLabel": "Sürüm",
+  "version": "1.0",
+  "footer": "© Bendgamine. Her hakkı saklıdır.",
+  "legalNotice": "Bu Hizmet Şartları sektördeki en iyi uygulamalara ve yasal gerekliliklere dayanmaktadır. Uygulamadan önce vasıflı hukuk müşavirleri tarafından incelenmelidirler.",
+  "sections": [
+    {
+      "num": 1,
+      "title": "Şartlar Anlaşması",
+      "blocks": [
+        {
+          "type": "P",
+          "text": "Bendgamine'e (\"Hizmet\", \"Uygulama\", \"Platform\") erişerek ve onu kullanarak, bu Hizmet Koşullarına (\"Şartlar\") uymayı kabul etmiş olursunuz. Bu şartların herhangi bir bölümünü kabul etmiyorsanız Hizmete erişemezsiniz."
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine, Benjamin Franklin'in erdem geliştirme metodolojisine dayanan dijital bir kişisel gelişim platformudur."
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Hizmet Açıklaması",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "2.1 Temel İşlevsellik"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine şunları sağlar:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Benjamin Franklin'in 13 erdem sisteminin dijital uygulaması",
+            "Haftalık planlama ve aksiyon takip arayüzü",
+            "Yapay zeka destekli kişiselleştirilmiş öneriler",
+            "İlerleme analizi ve raporlama",
+            "Özel erdem oluşturma ve proje yönetimi"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "2.2 Hizmet Kullanılabilirliği"
+        },
+        {
+          "type": "P",
+          "text": "Hizmeti 7/24 kullanılabilir durumda tutmaya çalışıyoruz ancak kesintisiz erişimi garanti edemiyoruz. Hizmet, bakım, güncelleme veya teknik sorunlar nedeniyle geçici olarak kullanılamayabilir."
+        },
+        {
+          "type": "h3",
+          "text": "2.3 Abonelik Planları"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Ücretsiz Plan: Temel özelliklerle sınırlı işlevsellik",
+            "Premium Plan: Gelişmiş özellikler ve yapay zeka önerileri",
+            "Profesyonel Plan: Sınırsız erişimle tam işlevsellik"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Kullanıcı Hesapları ve Kayıt",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "3.1 Hesap Oluşturma"
+        },
+        {
+          "type": "P",
+          "text": "Belirli özellikleri kullanmak için aşağıdakileri sağlayarak bir hesap oluşturmanız gerekir:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Geçerli E",
+            "Gereksinimlerimizi karşılayan güvenli şifre",
+            "Ad ve soyadı",
+            "Bu Şartların ve Gizlilik Politikasının Kabulü"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.2 Hesap Sorumluluğu"
+        },
+        {
+          "type": "P",
+          "text": "Şunlardan sorumlusunuz:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Hesap kimlik bilgilerinizin gizliliğini koruma",
+            "Hesabınız altında gerçekleşen tüm etkinlikler",
+            "İzinsiz kullanım durumunda bizi derhal bilgilendirmek",
+            "Hesap bilgilerinizin doğruluğunun sağlanması"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.3 Yaş Gereksinimleri"
+        },
+        {
+          "type": "P",
+          "text": "Hizmeti kullanabilmek için en az 13 yaşında olmanız gerekir. 18 yaşın altındaki kullanıcılar ebeveyn izni gerektirir."
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Kabul Edilebilir Kullanım Politikası",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "4.1 İzin Verilen Kullanımlar"
+        },
+        {
+          "type": "P",
+          "text": "Hizmeti şu amaçlarla kullanabilirsiniz:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Kişisel gelişim ve erdem gelişimi",
+            "Günlük eylemlerinizi ve ilerlemenizi takip etme",
+            "Kişisel hedefler belirlemek ve bunlara ulaşmak",
+            "Yapay zeka tarafından oluşturulan içgörülere ve önerilere erişme"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.2 Yasaklanan Faaliyetler"
+        },
+        {
+          "type": "P",
+          "text": "Şunları yapamazsınız:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Geçerli yasa veya düzenlemeleri ihlal etmek",
+            "Fikri mülkiyet haklarını ihlal etmek",
+            "Kötü amaçlı kod yükleyin veya Hizmeti hacklemeye çalışın",
+            "Sınırlamaları aşmak için birden fazla hesap oluşturun",
+            "Hesap kimlik bilgilerini başkalarıyla paylaşın",
+            "Hizmeti izinsiz ticari amaçlarla kullanmak",
+            "Diğer kullanıcıları taciz etmek, kötüye kullanmak veya onlara zarar vermek",
+            "Hizmette tersine mühendislik yapma girişimi"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.3 İçerik Standartları"
+        },
+        {
+          "type": "P",
+          "text": "Gönderdiğiniz tüm içerik:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Kendi orijinal eseriniz olun veya uygun şekilde lisanslayın",
+            "Yasadışı, zararlı veya rahatsız edici materyal içermemelidir",
+            "Başkalarının mahremiyetine ve haklarına saygı gösterin",
+            "Topluluk Kurallarımıza uyun"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Fikri Mülkiyet Hakları",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "5.1 Haklarımız"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine aşağıdakilerin tüm haklarına sahiptir:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Hizmet platformu ve yazılımı",
+            "Franklin'in erdem metodolojisinin uygulanması",
+            "Yapay zeka algoritmaları ve öneri sistemleri",
+            "Ticari markalar, logolar ve markalama",
+            "Hizmetle ilgili tüm içerik ve materyaller"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.2 Haklarınız"
+        },
+        {
+          "type": "P",
+          "text": "Aşağıdakilerin mülkiyeti sizde kalır:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Oluşturduğunuz kişisel veriler ve içerik",
+            "Erdem izleme verileriniz ve ilerlemeniz",
+            "Özel erdemler ve kişisel düşünceler",
+            "Gönderdiğiniz herhangi bir orijinal içerik"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.3 Lisans Verilmesi"
+        },
+        {
+          "type": "P",
+          "text": "Hizmeti kullanarak bize aşağıdakiler için sınırlı bir lisans vermiş olursunuz:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Hizmeti sağlamak için verilerinizi işleyin",
+            "Kullanım kalıplarınıza göre yapay zeka önerileri oluşturun",
+            "Hizmetin iyileştirilmesi için anonimleştirilmiş analitikler oluşturun",
+            "İçeriğinizi Hizmet arayüzünde görüntüleyin"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Gizlilik ve Veri Koruma",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "6.1 Gizlilik Politikası"
+        },
+        {
+          "type": "P",
+          "text": "Gizliliğiniz bizim için önemlidir. Lütfen Hizmeti kullanımınızı da düzenleyen Gizlilik Politikamızı inceleyin."
+        },
+        {
+          "type": "h3",
+          "text": "6.2 Veri Toplama"
+        },
+        {
+          "type": "P",
+          "text": "Aşağıdakiler dahil olmak üzere verileri Gizlilik Politikamızda açıklandığı şekilde topluyor ve işliyoruz:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Hesap bilgileri ve tercihler",
+            "Fazilet izleme verileri ve günlük eylemler",
+            "Kullanım kalıpları ve analizler",
+            "Cihaz ve teknik bilgiler"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "6.3 Veri Güvenliği"
+        },
+        {
+          "type": "P",
+          "text": "Verilerinizi korumak için şifreleme, güvenli depolama ve erişim kontrolleri de dahil olmak üzere endüstri standardında güvenlik önlemleri uyguluyoruz."
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Abonelik Koşulları ve Faturalandırma",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "7.1 Abonelik Planları"
+        },
+        {
+          "type": "P",
+          "text": "Abonelik planlarımız, özelliklerimiz ve fiyatlandırmamız hakkında ayrıntılı bilgi web sitemizde ve Hizmet içinde mevcuttur."
+        },
+        {
+          "type": "h3",
+          "text": "7.2 Ücretsiz Deneme"
+        },
+        {
+          "type": "P",
+          "text": "Yeni kullanıcılar ücretsiz deneme süresinden yararlanabilir. Deneme koşulları kayıt sırasında açıkça açıklanacaktır."
+        },
+        {
+          "type": "h3",
+          "text": "7.3 Faturalandırma ve Ödeme"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Abonelikler aylık veya yıllık olarak peşin olarak faturalandırılır",
+            "Ödeme, aboneliğin etkinleştirilmesinden hemen sonra yapılmalıdır",
+            "Güvenli işlemler için üçüncü taraf ödeme işlemcilerini (Stripe) kullanıyoruz",
+            "Yasaların veya Geri Ödeme Politikamızın gerektirdiği durumlar dışında hiçbir ücret iade edilmez"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "7.4 Otomatik Yenileme"
+        },
+        {
+          "type": "P",
+          "text": "Abonelikler, yenileme tarihinden önce iptal edilmediği sürece otomatik olarak yenilenir. Hesap ayarlarınızdan istediğiniz zaman iptal edebilirsiniz."
+        },
+        {
+          "type": "h3",
+          "text": "7.5 Fiyat Değişiklikleri"
+        },
+        {
+          "type": "P",
+          "text": "Abonelik fiyatlarını 30 gün önceden bildirimde bulunarak değiştirebiliriz. Değişiklikler sonraki faturalandırma döngülerine uygulanır."
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title": "İptal ve Fesih",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "8.1 İptal Hakkınız"
+        },
+        {
+          "type": "P",
+          "text": "Aboneliğinizi istediğiniz zaman hesap ayarlarınızdan iptal edebilirsiniz. İptal, geçerli fatura döneminizin sonunda geçerli olur."
+        },
+        {
+          "type": "h3",
+          "text": "8.2 Fesih Hakkımız"
+        },
+        {
+          "type": "P",
+          "text": "Aşağıdaki durumlarda hesabınızı askıya alabilir veya sonlandırabiliriz:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Bu Hizmet Şartlarını ihlal etmek",
+            "Dolandırıcılık veya yasa dışı faaliyetlerde bulunmak",
+            "Hizmetin güvenliğini veya bütünlüğünü tehlikeye atmak",
+            "Gerekli ücretleri ödeyememek"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "8.3 Feshin Etkisi"
+        },
+        {
+          "type": "P",
+          "text": "Fesih üzerine:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Hizmete erişiminiz sona erecek",
+            "Makul bir süre sonunda hesabınızı ve verilerinizi silebiliriz",
+            "Fesihten önce veri aktarımı talep edebilirsiniz",
+            "Bu Şartların belirli hükümleri fesihten sonra da geçerliliğini koruyacaktır"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "title": "Yapay Zeka ve Otomatik Karar Verme",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "9.1 Yapay Zeka Önerileri"
+        },
+        {
+          "type": "P",
+          "text": "Hizmetimiz aşağıdakilere dayanarak kişiselleştirilmiş öneriler sunmak için yapay zeka kullanır:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Erdem izleme kalıplarınız",
+            "Hedefe ulaşma geçmişi",
+            "Kullanım davranışı ve tercihleri",
+            "Diğer kullanıcılardan alınan anonimleştirilmiş veriler"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.2 Yapay Zeka Sınırlamaları"
+        },
+        {
+          "type": "P",
+          "text": "AI önerileri şunlardır:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Yalnızca öneri, profesyonel tavsiye değil",
+            "İnsan uzmanlığına değil algoritmik analize dayalıdır",
+            "Hatalara ve sınırlamalara tabidir",
+            "Tıbbi, terapötik veya profesyonel rehberlik için uygun değildir"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.3 İnsan Gözetimi"
+        },
+        {
+          "type": "P",
+          "text": "Şunu kabul ediyorsunuz:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Yapay zeka sistemleri hata yapabilir",
+            "Önerileri değerlendirmek ve bunlara göre hareket etmek sizin sorumluluğunuzdadır",
+            "Ciddi endişeler için kalifiye profesyonellere danışmalısınız",
+            "Yapay zeka tarafından oluşturulan içeriğin doğruluğunu garanti etmiyoruz"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "title": "Sorumluluk Reddi ve Sınırlamalar",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "10.1 Hizmet Sorumluluk Reddi"
+        },
+        {
+          "type": "büyük harfler",
+          "text": "HİZMET, HERHANGİ BİR GARANTİ OLMAKSIZIN \"OLDUĞU GİBİ\" SUNULMAKTADIR. TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK VE İHLAL ETMEME DAHİL, AÇIK VEYA ZIMNİ TÜM GARANTİLERİ REDDEDİYORUZ."
+        },
+        {
+          "type": "h3",
+          "text": "10.2 Profesyonel Tavsiye Yok"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine aşağıdakilerin yerine geçmez:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Profesyonel psikolojik veya terapötik hizmetler",
+            "Tıbbi tavsiye veya tedavi",
+            "Mali veya hukuki danışmanlık",
+            "Eğitim veya kariyer rehberliği"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "10.3 Sonuçlarla İlgili Sorumluluk Reddi"
+        },
+        {
+          "type": "P",
+          "text": "Hizmeti kullanmanın aşağıdakileri sağlayacağını garanti etmiyoruz:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Kişisel gelişim sonuçlarınızı iyileştirin",
+            "Belirli hedeflere veya sonuçlara ulaşın",
+            "İlerlemeniz hakkında doğru tahminler sağlayın",
+            "Profesyonel rehberliği veya tedaviyi değiştirin"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "title": "Sorumluluğun Sınırlandırılması",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "11.1 Sorumluluk Sınırları"
+        },
+        {
+          "type": "büyük harfler",
+          "text": "YASALARIN İZİN VERDİĞİ AZAMİ ÖLÇÜDE, SORUMLULUĞUMUZ, TALEPTEN ÖNCEKİ 12 AY İÇİNDE HİZMET İÇİN ÖDEDİĞİNİZ MİKTARI AŞMAYACAKTIR."
+        },
+        {
+          "type": "h3",
+          "text": "11.2 Hariç Tutulan Hasarlar"
+        },
+        {
+          "type": "P",
+          "text": "ŞUNLARDAN SORUMLU OLMAYACAĞIZ:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "DOLAYLI, ARIZİ VEYA SONUÇ OLARAK ORTAYA ÇIKAN ZARARLAR",
+            "KÂR, VERİ VEYA İŞ FIRSATLARI KAYBI",
+            "KİŞİSEL YARALANMA VEYA DUYGUSAL SIKINTI",
+            "HİZMET KESİNTİSİNDEN KAYNAKLANAN ZARARLAR"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "11.3 Mücbir Sebep"
+        },
+        {
+          "type": "P",
+          "text": "Doğal afetler, hükümet eylemleri veya teknik altyapı arızaları dahil olmak üzere makul kontrolümüz dışındaki durumlardan kaynaklanan gecikmelerden veya arızalardan sorumlu değiliz."
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "title": "Tazminat",
+      "blocks": [
+        {
+          "type": "P",
+          "text": "Aşağıdakilerden kaynaklanan iddialara karşı bizi tazmin etmeyi ve zarar görmememizi sağlamayı kabul edersiniz:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Hizmeti kullanımınız",
+            "Bu Şartların İhlali",
+            "Üçüncü taraf haklarının ihlali",
+            "Hizmetteki içeriğiniz veya etkinlikleriniz"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "title": "Uyuşmazlık Çözümü",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "13.1 Geçerli Kanun"
+        },
+        {
+          "type": "P",
+          "text": "Bu Şartlar, kanunlar ihtilafı ilkeleri dikkate alınmaksızın, [Yargı Yetkisi — TBD] kanunlarına tabidir."
+        },
+        {
+          "type": "h3",
+          "text": "13.2 Tahkim"
+        },
+        {
+          "type": "P",
+          "text": "Aşağıdaki durumlar haricinde her türlü anlaşmazlık, mahkeme işlemleri yerine bağlayıcı tahkim yoluyla çözülecektir:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Fikri mülkiyet anlaşmazlıkları",
+            "Küçük iddialar mahkemesi konuları",
+            "İhtiyati tedbir talepleri"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "13.3 Grup Davasından Feragat"
+        },
+        {
+          "type": "P",
+          "text": "Bize karşı toplu davalara katılmamayı kabul ediyorsunuz."
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "title": "Genel Hükümler",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "14.1 Sözleşmenin Tamamı"
+        },
+        {
+          "type": "P",
+          "text": "Bu Koşullar, Gizlilik Politikamız ve ek koşullarla birlikte, sizinle Bendgamine arasındaki sözleşmenin tamamını oluşturur."
+        },
+        {
+          "type": "h3",
+          "text": "14.2 Şartların Değiştirilmesi"
+        },
+        {
+          "type": "P",
+          "text": "Bu Koşulları şu şekilde değiştirebiliriz:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Güncellenmiş Koşulların web sitemizde yayınlanması",
+            "Hizmet veya e-posta yoluyla bildirimde bulunmak",
+            "Sürekli kullanım için yeni Şartların kabul edilmesini zorunlu kılmak"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "14.3 Bölünebilirlik"
+        },
+        {
+          "type": "P",
+          "text": "Bu Şartların herhangi bir hükmünün uygulanamaz bulunması halinde, geri kalan hükümler tam olarak yürürlükte kalmaya devam edecektir."
+        },
+        {
+          "type": "h3",
+          "text": "14.4 Atama"
+        },
+        {
+          "type": "P",
+          "text": "Bu Şartları herhangi bir bağlı kuruluşa veya halefimize devredebiliriz. Yazılı iznimiz olmadan haklarınızı devredemezsiniz."
+        },
+        {
+          "type": "h3",
+          "text": "14.5 Feragat"
+        },
+        {
+          "type": "P",
+          "text": "Herhangi bir hükmü uygulamamamız, haklarımızdan feragat anlamına gelmez."
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "num": 15,
+    "title": "İletişim Bilgileri",
+    "intro": "Bu Hizmet Şartları hakkındaki sorularınız için:",
+    "emailLabel": "E-posta",
+    "email": "legal@bendgamine.com",
+    "addressLabel": "Adres",
+    "address": "[Company Address — TBD]",
+    "supportLabel": "Destek",
+    "support": "supp0rt.serg@yandex.com"
+  },
+  "acknowledgment": {
+    "num": 16,
+    "title": "Teşekkür",
+    "intro": "Bendgamine'i kullanarak şunları kabul etmiş olursunuz:",
+    "items": [
+      "Bu Şartları okudunuz ve anladınız",
+      "Bu Şartlara bağlı kalmayı kabul ediyorsunuz",
+      "Yasal olarak bu sözleşmeye girebilirsiniz",
+      "Yürürlükteki tüm yasa ve düzenlemelere uyacaksınız"
+    ]
+  }
+}

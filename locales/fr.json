@@ -1,0 +1,654 @@
+{
+  "pageTitle": "Bendgamine — Conditions d'utilisation",
+  "title": "Conditions d'utilisation",
+  "effectiveDateLabel": "Date d'entrée en vigueur",
+  "effectiveDate": "[TBD — Date of Launch]",
+  "lastUpdatedLabel": "Dernière mise à jour",
+  "lastUpdated": "[TBD]",
+  "versionLabel": "Version",
+  "version": "1.0",
+  "footer": "© Bendgamine. Tous droits réservés.",
+  "legalNotice": "Ces conditions d'utilisation sont basées sur les meilleures pratiques du secteur et les exigences légales. Ils doivent être examinés par un conseiller juridique qualifié avant leur mise en œuvre.",
+  "sections": [
+    {
+      "num": 1,
+      "title": "Accord sur les conditions",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "En accédant et en utilisant Bendgamine (« Service », « Application », « Plateforme »), vous acceptez d'être lié par les présentes Conditions d'utilisation (« Conditions »). Si vous n'êtes pas d'accord avec une partie de ces conditions, vous ne pouvez pas accéder au Service."
+        },
+        {
+          "type": "p",
+          "text": "Bendgamine est une plateforme numérique d'auto-amélioration basée sur la méthodologie de développement de la vertu de Benjamin Franklin."
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Description du service",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "2.1 Fonctionnalité de base"
+        },
+        {
+          "type": "p",
+          "text": "Bendgamine fournit :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Implémentation numérique du système des 13 vertus de Benjamin Franklin",
+            "Interface de planification hebdomadaire et de suivi des actions",
+            "Recommandations personnalisées basées sur l'IA",
+            "Analyse des progrès et rapports",
+            "Création de vertus personnalisées et gestion de projet"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "2.2 Disponibilité des services"
+        },
+        {
+          "type": "p",
+          "text": "Nous nous efforçons de maintenir le Service disponible 24h/24 et 7j/7, mais ne pouvons garantir un accès ininterrompu. Le Service peut être temporairement indisponible en raison de maintenance, de mises à jour ou de problèmes techniques."
+        },
+        {
+          "type": "h3",
+          "text": "2.3 Plans d'abonnement"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Plan gratuit : fonctionnalités limitées avec des fonctionnalités de base",
+            "Plan Premium : fonctionnalités améliorées et recommandations d'IA",
+            "Plan Pro : fonctionnalités complètes avec accès illimité"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Comptes d'utilisateurs et inscription",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "3.1 Création de compte"
+        },
+        {
+          "type": "p",
+          "text": "Pour utiliser certaines fonctionnalités, vous devez créer un compte en fournissant :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Adresse e-mail valable",
+            "Mot de passe sécurisé répondant à nos exigences",
+            "Nom et prénom",
+            "Acceptation de ces conditions et politique de confidentialité"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.2 Responsabilité du compte"
+        },
+        {
+          "type": "p",
+          "text": "Vous êtes responsable de :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Maintenir la confidentialité des identifiants de votre compte",
+            "Toutes les activités qui se produisent sous votre compte",
+            "Nous informer immédiatement de toute utilisation non autorisée",
+            "Assurer l'exactitude des informations de votre compte"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.3 Conditions d'âge"
+        },
+        {
+          "type": "p",
+          "text": "Vous devez avoir au moins 13 ans pour utiliser le Service. Les utilisateurs de moins de 18 ans nécessitent le consentement parental."
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Politique d'utilisation acceptable",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "4.1 Utilisations autorisées"
+        },
+        {
+          "type": "p",
+          "text": "Vous pouvez utiliser le Service pour :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Amélioration personnelle et développement de la vertu",
+            "Suivi de vos actions et progrès quotidiens",
+            "Fixer et atteindre des objectifs personnels",
+            "Accéder aux informations et recommandations générées par l'IA"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.2 Activités interdites"
+        },
+        {
+          "type": "p",
+          "text": "Vous ne pouvez pas :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Violer les lois ou réglementations applicables",
+            "Porter atteinte aux droits de propriété intellectuelle",
+            "Téléchargez du code malveillant ou tentez de pirater le Service",
+            "Créez plusieurs comptes pour contourner les limitations",
+            "Partager les informations d'identification du compte avec d'autres",
+            "Utiliser le Service à des fins commerciales sans autorisation",
+            "Harceler, abuser ou nuire à d'autres utilisateurs",
+            "Tentative d'ingénierie inverse du service"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.3 Normes de contenu"
+        },
+        {
+          "type": "p",
+          "text": "Tout le contenu que vous soumettez doit :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Soyez votre propre création originale ou sous licence appropriée",
+            "Ne pas contenir de matériel illégal, nuisible ou offensant",
+            "Respecter la vie privée et les droits d'autrui",
+            "Respecter nos directives communautaires"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Droits de propriété intellectuelle",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "5.1 Nos droits"
+        },
+        {
+          "type": "p",
+          "text": "Bendgamine détient tous les droits sur :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "La plateforme de service et les logiciels",
+            "Mise en œuvre de la méthodologie de la vertu de Franklin",
+            "Algorithmes d'IA et systèmes de recommandation",
+            "Marques déposées, logos et image de marque",
+            "Tous les contenus et documents liés au service"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.2 Vos droits"
+        },
+        {
+          "type": "p",
+          "text": "Vous conservez la propriété de :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Données personnelles et contenu que vous créez",
+            "Vos données de suivi de vertu et vos progrès",
+            "Vertus personnalisées et réflexions personnelles",
+            "Tout contenu original que vous soumettez"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.3 Octroi de licence"
+        },
+        {
+          "type": "p",
+          "text": "En utilisant le Service, vous nous accordez une licence limitée pour :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Traiter vos données pour fournir le Service",
+            "Générez des recommandations d'IA en fonction de vos modèles d'utilisation",
+            "Créer des analyses anonymisées pour l'amélioration du service",
+            "Affichez votre contenu dans l'interface du Service"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Confidentialité et protection des données",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "6.1 Politique de confidentialité"
+        },
+        {
+          "type": "p",
+          "text": "Votre vie privée est importante pour nous. Veuillez consulter notre Politique de confidentialité, qui régit également votre utilisation du Service."
+        },
+        {
+          "type": "h3",
+          "text": "6.2 Collecte de données"
+        },
+        {
+          "type": "p",
+          "text": "Nous collectons et traitons les données comme décrit dans notre Politique de confidentialité, notamment :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Informations et préférences du compte",
+            "Données de suivi de la vertu et actions quotidiennes",
+            "Modèles d'utilisation et analyses",
+            "Informations sur l'appareil et techniques"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "6.3 Sécurité des données"
+        },
+        {
+          "type": "p",
+          "text": "Nous mettons en œuvre des mesures de sécurité conformes aux normes de l'industrie pour protéger vos données, notamment le cryptage, le stockage sécurisé et les contrôles d'accès."
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Conditions d'abonnement et facturation",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "7.1 Plans d'abonnement"
+        },
+        {
+          "type": "p",
+          "text": "Des informations détaillées sur nos plans d'abonnement, nos fonctionnalités et nos tarifs sont disponibles sur notre site Web et au sein du Service."
+        },
+        {
+          "type": "h3",
+          "text": "7.2 Essai gratuit"
+        },
+        {
+          "type": "p",
+          "text": "Les nouveaux utilisateurs peuvent être éligibles à une période d'essai gratuite. Les conditions de l’essai seront clairement divulguées lors de l’inscription."
+        },
+        {
+          "type": "h3",
+          "text": "7.3 Facturation et paiement"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Les abonnements sont facturés à l'avance sur une base mensuelle ou annuelle",
+            "Le paiement est dû immédiatement après l'activation de l'abonnement",
+            "Nous utilisons des processeurs de paiement tiers (Stripe) pour des transactions sécurisées",
+            "Tous les frais ne sont pas remboursables, sauf si la loi ou notre politique de remboursement l'exige."
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "7.4 Renouvellement automatique"
+        },
+        {
+          "type": "p",
+          "text": "Les abonnements se renouvellent automatiquement sauf annulation avant la date de renouvellement. Vous pouvez annuler à tout moment via les paramètres de votre compte."
+        },
+        {
+          "type": "h3",
+          "text": "7.5 Modifications de prix"
+        },
+        {
+          "type": "p",
+          "text": "Nous pouvons modifier les prix des abonnements avec un préavis de 30 jours. Les modifications s’appliquent aux cycles de facturation ultérieurs."
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title": "Annulation et résiliation",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "8.1 Votre droit d'annulation"
+        },
+        {
+          "type": "p",
+          "text": "Vous pouvez annuler votre abonnement à tout moment via les paramètres de votre compte. L'annulation prend effet à la fin de votre période de facturation en cours."
+        },
+        {
+          "type": "h3",
+          "text": "8.2 Notre droit de résilier"
+        },
+        {
+          "type": "p",
+          "text": "Nous pouvons suspendre ou résilier votre compte si vous :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Violer ces conditions d'utilisation",
+            "Se livrer à des activités frauduleuses ou illégales",
+            "Compromettre la sécurité ou l’intégrité du Service",
+            "Ne pas payer les frais requis"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "8.3 Effet de la résiliation"
+        },
+        {
+          "type": "p",
+          "text": "À la résiliation :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Votre accès au Service cessera",
+            "Nous pouvons supprimer votre compte et vos données après une période raisonnable",
+            "Vous pouvez demander l'exportation des données avant la résiliation",
+            "Certaines dispositions des présentes Conditions survivront à la résiliation"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "title": "IA et prise de décision automatisée",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "9.1 Recommandations sur l'IA"
+        },
+        {
+          "type": "p",
+          "text": "Notre Service utilise l’intelligence artificielle pour fournir des recommandations personnalisées basées sur :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Vos modèles de suivi de vertu",
+            "Historique de réalisation des objectifs",
+            "Comportement et préférences d'utilisation",
+            "Données anonymisées d'autres utilisateurs"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.2 Limites de l'IA"
+        },
+        {
+          "type": "p",
+          "text": "Les recommandations de l’IA sont :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Suggestions uniquement, pas de conseils professionnels",
+            "Basé sur une analyse algorithmique et non sur une expertise humaine",
+            "Sous réserve d'erreurs et de limitations",
+            "Ne convient pas aux conseils médicaux, thérapeutiques ou professionnels"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.3 Surveillance humaine"
+        },
+        {
+          "type": "p",
+          "text": "Vous reconnaissez que :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Les systèmes d’IA peuvent commettre des erreurs",
+            "Vous êtes responsable de l’évaluation et de la mise en œuvre des recommandations",
+            "Vous devriez consulter des professionnels qualifiés en cas de problèmes graves",
+            "Nous ne garantissons pas l'exactitude du contenu généré par l'IA"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "title": "Avis de non-responsabilité et limitations",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "10.1 Avis de non-responsabilité concernant les services"
+        },
+        {
+          "type": "casquettes",
+          "text": "LE SERVICE EST FOURNI « EN L'ÉTAT », SANS GARANTIE D'AUCUNE SORTE. NOUS DÉCLINONS TOUTE GARANTIE, EXPRESSE OU IMPLICITE, Y COMPRIS LA QUALITÉ MARCHANDE, L'ADAPTATION À UN USAGE PARTICULIER ET L'ABSENCE DE CONTREFAÇON."
+        },
+        {
+          "type": "h3",
+          "text": "10.2 Aucun conseil professionnel"
+        },
+        {
+          "type": "p",
+          "text": "Bendgamine ne remplace pas :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Services professionnels psychologiques ou thérapeutiques",
+            "Conseil ou traitement médical",
+            "Conseil financier ou juridique",
+            "Orientation scolaire ou professionnelle"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "10.3 Clause de non-responsabilité relative aux résultats"
+        },
+        {
+          "type": "p",
+          "text": "Nous ne garantissons pas que l'utilisation du Service :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Améliorez vos résultats de développement personnel",
+            "Atteindre des objectifs ou des résultats spécifiques",
+            "Fournissez des prédictions précises sur vos progrès",
+            "Remplacer les conseils ou les traitements professionnels"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "title": "Limitation de responsabilité",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "11.1 Limites de responsabilité"
+        },
+        {
+          "type": "casquettes",
+          "text": "DANS LA MESURE MAXIMALE PERMISE PAR LA LOI, NOTRE RESPONSABILITÉ NE DEPASSERA PAS LE MONTANT QUE VOUS AVEZ PAYÉ POUR LE SERVICE DANS LES 12 MOIS PRÉCÉDANT LA RÉCLAMATION."
+        },
+        {
+          "type": "h3",
+          "text": "11.2 Dommages exclus"
+        },
+        {
+          "type": "p",
+          "text": "NOUS NE SERONS PAS RESPONSABLES DE :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "DOMMAGES INDIRECTS, ACCESSOIRES OU CONSÉCUTIFS",
+            "PERTE DE PROFITS, DE DONNÉES OU D'OPPORTUNITÉS COMMERCIALES",
+            "BLESSURES CORPORELLES OU DÉTRESSE ÉMOTIONNELLE",
+            "DOMMAGES RÉSULTANT D'INTERRUPTIONS DE SERVICE"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "11.3 Force majeure"
+        },
+        {
+          "type": "p",
+          "text": "Nous ne sommes pas responsables des retards ou des échecs dus à des circonstances indépendantes de notre volonté, notamment les catastrophes naturelles, les actions gouvernementales ou les pannes d'infrastructure technique."
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "title": "Indemnité",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Vous acceptez de nous indemniser et de nous dégager de toute responsabilité en cas de réclamations découlant de :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Votre utilisation du Service",
+            "Violation de ces conditions",
+            "Violation des droits de tiers",
+            "Votre contenu ou vos activités sur le Service"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "title": "Résolution des litiges",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "13.1 Loi applicable"
+        },
+        {
+          "type": "p",
+          "text": "Les présentes Conditions sont régies par les lois de [Juridiction — À déterminer], sans égard aux principes de conflit de lois."
+        },
+        {
+          "type": "h3",
+          "text": "13.2 Arbitrage"
+        },
+        {
+          "type": "p",
+          "text": "Tout litige sera résolu par un arbitrage exécutoire plutôt que par une procédure judiciaire, à l'exception des cas suivants :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Litiges en matière de propriété intellectuelle",
+            "Affaires devant la Cour des petites créances",
+            "Demandes de mesures d'injonction"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "13.3 Renonciation au recours collectif"
+        },
+        {
+          "type": "p",
+          "text": "Vous acceptez de ne pas participer à des recours collectifs contre nous."
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "title": "Dispositions générales",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "14.1 Intégralité de l'accord"
+        },
+        {
+          "type": "p",
+          "text": "Ces conditions, ainsi que notre politique de confidentialité et toutes conditions supplémentaires, constituent l'intégralité de l'accord entre vous et Bendgamine."
+        },
+        {
+          "type": "h3",
+          "text": "14.2 Modification des Conditions"
+        },
+        {
+          "type": "p",
+          "text": "Nous pouvons modifier ces Conditions en :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Publication des conditions mises à jour sur notre site Web",
+            "Fournir un avis via le Service ou par e-mail",
+            "Exiger l'acceptation des nouvelles conditions pour une utilisation continue"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "14.3 Divisibilité"
+        },
+        {
+          "type": "p",
+          "text": "Si une disposition des présentes Conditions s’avère inapplicable, les dispositions restantes resteront pleinement en vigueur."
+        },
+        {
+          "type": "h3",
+          "text": "14.4 Affectation"
+        },
+        {
+          "type": "p",
+          "text": "Nous pouvons céder ces Conditions à tout affilié ou successeur. Vous ne pouvez pas céder vos droits sans notre consentement écrit."
+        },
+        {
+          "type": "h3",
+          "text": "14.5 Renonciation"
+        },
+        {
+          "type": "p",
+          "text": "Notre incapacité à appliquer une disposition ne constitue pas une renonciation à nos droits."
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "num": 15,
+    "title": "Coordonnées",
+    "intro": "Pour toute question concernant ces conditions d'utilisation :",
+    "emailLabel": "E-mail",
+    "email": "legal@bendgamine.com",
+    "addressLabel": "Adresse",
+    "address": "[Company Address — TBD]",
+    "supportLabel": "Soutien",
+    "support": "supp0rt.serg@yandex.com"
+  },
+  "acknowledgment": {
+    "num": 16,
+    "title": "Reconnaissance",
+    "intro": "En utilisant Bendgamine, vous reconnaissez que :",
+    "items": [
+      "Vous avez lu et compris ces Conditions",
+      "Vous acceptez d'être lié par ces Conditions",
+      "Vous êtes légalement en mesure de conclure cet accord",
+      "Vous respecterez toutes les lois et réglementations applicables"
+    ]
+  }
+}
