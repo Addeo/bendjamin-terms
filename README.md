@@ -2,47 +2,42 @@
 
 Static multilingual Terms of Service site (English / Russian) for linking from the Bendgamine app.
 
+**Live site:** https://addeo.github.io/bendjamin-terms/
+
 ## Local preview
 
 ```bash
-cd bendjamin-terms
 python3 -m http.server 8080
 ```
 
 Open [http://localhost:8080](http://localhost:8080).
 
-## Deploy to GitHub Pages
+## Deploy (gh-pages branch)
 
-1. Create a repository on GitHub (e.g. `bendjamin-terms`).
-2. Push this folder:
+GitHub Pages serves the **`gh-pages`** branch (root folder). Development happens on **`main`**.
+
+After editing files on `main`, deploy:
 
 ```bash
-git init
-git add .
-git commit -m "Add multilingual Terms of Service site"
-git branch -M main
-git remote add origin git@github.com:YOUR_USER/bendjamin-terms.git
-git push -u origin main
+chmod +x scripts/deploy-gh-pages.sh
+./scripts/deploy-gh-pages.sh
 ```
 
-3. On GitHub: **Settings → Pages → Build and deployment → Source**: **GitHub Actions** (workflow `.github/workflows/pages.yml` runs on push to `main` or `gh-pages`).
-4. After the workflow completes, the site is live at:
-
-`https://addeo.github.io/bendjamin-terms/`
+One-time setup on GitHub: **Settings → Pages → Build and deployment → Deploy from a branch** → branch **`gh-pages`**, folder **`/ (root)`**.
 
 ## Link from your app
 
 | Purpose | URL |
 |--------|-----|
-| English (default) | `https://YOUR_USER.github.io/bendjamin-terms/` |
-| Russian | `https://YOUR_USER.github.io/bendjamin-terms/?lang=ru` |
-| English (explicit) | `https://YOUR_USER.github.io/bendjamin-terms/?lang=en` |
+| English (default) | https://addeo.github.io/bendjamin-terms/ |
+| Russian | https://addeo.github.io/bendjamin-terms/?lang=ru |
+| English (explicit) | https://addeo.github.io/bendjamin-terms/?lang=en |
 
 Language choice is saved in `localStorage` and restored on the next visit.
 
 ## Customize placeholders
 
-Edit `i18n.js` and update:
+Edit `i18n.js` on `main`, then run `./scripts/deploy-gh-pages.sh`.
 
 - `effectiveDate` / `lastUpdated`
 - `contact.address` (company address)
