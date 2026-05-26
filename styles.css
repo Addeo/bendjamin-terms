@@ -1,0 +1,186 @@
+:root {
+  --bg: #f8f6f1;
+  --surface: #ffffff;
+  --text: #1a1a1a;
+  --muted: #5c5c5c;
+  --accent: #2c5f4a;
+  --accent-hover: #234d3c;
+  --border: #e4dfd4;
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+  --max-width: 42rem;
+  --font: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--text);
+  background: var(--bg);
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+.header-inner {
+  max-width: calc(var(--max-width) + 4rem);
+  margin: 0 auto;
+  padding: 0.875rem 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.brand {
+  font-weight: 700;
+  font-size: 1.125rem;
+  color: var(--accent);
+  text-decoration: none;
+  letter-spacing: -0.02em;
+}
+
+.brand:hover {
+  color: var(--accent-hover);
+}
+
+.lang-switch {
+  display: flex;
+  gap: 0.25rem;
+  background: var(--bg);
+  padding: 0.2rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--border);
+}
+
+.lang-btn {
+  font: inherit;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  padding: 0.35rem 0.75rem;
+  border: none;
+  border-radius: 0.35rem;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+
+.lang-btn:hover {
+  color: var(--text);
+}
+
+.lang-btn.active {
+  background: var(--surface);
+  color: var(--accent);
+  box-shadow: var(--shadow);
+}
+
+.content {
+  max-width: calc(var(--max-width) + 4rem);
+  margin: 0 auto;
+  padding: 2rem 1.25rem 3rem;
+}
+
+.terms-doc {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+  padding: 2rem 1.75rem;
+  box-shadow: var(--shadow);
+}
+
+.terms-doc h1 {
+  margin: 0 0 0.5rem;
+  font-size: 1.75rem;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+}
+
+.terms-doc .meta {
+  color: var(--muted);
+  font-size: 0.875rem;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.terms-doc h2 {
+  margin: 2rem 0 0.75rem;
+  font-size: 1.125rem;
+  color: var(--accent);
+}
+
+.terms-doc h3 {
+  margin: 1.25rem 0 0.5rem;
+  font-size: 1rem;
+}
+
+.terms-doc p {
+  margin: 0 0 0.875rem;
+}
+
+.terms-doc ul {
+  margin: 0 0 1rem;
+  padding-left: 1.35rem;
+}
+
+.terms-doc li {
+  margin-bottom: 0.35rem;
+}
+
+.terms-doc a {
+  color: var(--accent);
+}
+
+.terms-doc a:hover {
+  color: var(--accent-hover);
+}
+
+.terms-doc .disclaimer {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.8125rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+.terms-doc .caps {
+  font-size: 0.875rem;
+  letter-spacing: 0.01em;
+}
+
+.site-footer {
+  text-align: center;
+  padding: 1.5rem 1.25rem 2.5rem;
+  font-size: 0.8125rem;
+  color: var(--muted);
+}
+
+@media (max-width: 480px) {
+  .terms-doc {
+    padding: 1.5rem 1.25rem;
+  }
+
+  .terms-doc h1 {
+    font-size: 1.5rem;
+  }
+}
