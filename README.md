@@ -25,10 +25,10 @@ git remote add origin git@github.com:YOUR_USER/bendjamin-terms.git
 git push -u origin main
 ```
 
-3. On GitHub: **Settings → Pages → Build and deployment → Source**: deploy from branch **main**, folder **/ (root)**.
-4. After a minute, the site is live at:
+3. On GitHub: **Settings → Pages → Build and deployment → Source**: **GitHub Actions** (workflow `.github/workflows/pages.yml` runs on push to `main` or `gh-pages`).
+4. After the workflow completes, the site is live at:
 
-`https://YOUR_USER.github.io/bendjamin-terms/`
+`https://addeo.github.io/bendjamin-terms/`
 
 ## Link from your app
 
