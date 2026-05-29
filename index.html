@@ -12,14 +12,15 @@
   <header class="site-header">
     <div class="header-inner">
       <a class="brand" href="./">Bendgamine</a>
-      <nav class="lang-switch" aria-label="Language">
-        <button type="button" class="lang-btn active" data-lang="en">EN</button>
-        <button type="button" class="lang-btn" data-lang="ru">RU</button>
-      </nav>
+      <label class="lang-picker">
+        <span class="visually-hidden" id="lang-label">Language</span>
+        <select id="lang-select" aria-labelledby="lang-label"></select>
+      </label>
     </div>
   </header>
 
   <main class="content">
+    <p id="loading" class="loading" hidden>Loading…</p>
     <article id="terms" class="terms-doc"></article>
   </main>
 
@@ -27,7 +28,6 @@
     <p id="footer-copy"></p>
   </footer>
 
-  <script src="i18n.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

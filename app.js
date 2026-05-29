@@ -1,20 +1,38 @@
 (function () {
   const STORAGE_KEY = 'bendgamine-terms-lang';
   const DEFAULT_LANG = 'en';
-  const SUPPORTED = ['en', 'ru'];
+  const META_URL = 'locales/meta.json';
+  const LOCALE_URL = (code) => `locales/${code}.json`;
+
+  let meta = null;
+  let supported = [];
+  let langMap = new Map();
+  let cache = new Map();
+  let currentLang = DEFAULT_LANG;
+
+  const termsEl = document.getElementById('terms');
+  const loadingEl = document.getElementById('loading');
+  const selectEl = document.getElementById('lang-select');
+
+  function resolveLang(code) {
+    if (!code) return null;
+    const lower = code.toLowerCase();
+    if (langMap.has(lower)) return lower;
+    const base = lower.split('-')[0];
+    if (langMap.has(base)) return base;
+    return null;
+  }
 
   function getInitialLang() {
     const params = new URLSearchParams(window.location.search);
-    const fromQuery = params.get('lang');
-    if (fromQuery && SUPPORTED.includes(fromQuery)) {
-      return fromQuery;
-    }
-    const stored = localStorage.getItem(STORAGE_KEY);
-    if (stored && SUPPORTED.includes(stored)) {
-      return stored;
-    }
-    const browser = (navigator.language || '').slice(0, 2).toLowerCase();
-    return SUPPORTED.includes(browser) ? browser : DEFAULT_LANG;
+    const fromQuery = resolveLang(params.get('lang'));
+    if (fromQuery) return fromQuery;
+
+    const stored = resolveLang(localStorage.getItem(STORAGE_KEY));
+    if (stored) return stored;
+
+    const browser = resolveLang(navigator.language);
+    return browser || DEFAULT_LANG;
   }
 
   function escapeHtml(text) {
@@ -51,11 +69,10 @@
     `;
   }
 
-  function renderTerms(lang) {
-    const t = I18N[lang];
-    if (!t) return;
-
+  function renderTerms(t, lang) {
+    const info = langMap.get(lang);
     document.documentElement.lang = lang;
+    document.documentElement.dir = info?.dir || 'ltr';
     document.title = t.pageTitle;
 
     const contact = t.contact;
@@ -76,7 +93,7 @@
       ${renderList(ack.items)}
     `;
 
-    document.getElementById('terms').innerHTML = `
+    termsEl.innerHTML = `
       <h1>${escapeHtml(t.title)}</h1>
       <p class="meta">
         ${escapeHtml(t.effectiveDateLabel)}: ${escapeHtml(t.effectiveDate)}<br>
@@ -92,21 +109,79 @@
     document.getElementById('footer-copy').textContent = t.footer;
   }
 
-  function setLang(lang) {
-    if (!SUPPORTED.includes(lang)) return;
-    localStorage.setItem(STORAGE_KEY, lang);
-    document.querySelectorAll('.lang-btn').forEach((btn) => {
-      btn.classList.toggle('active', btn.dataset.lang === lang);
-    });
-    renderTerms(lang);
-    const url = new URL(window.location.href);
-    url.searchParams.set('lang', lang);
-    window.history.replaceState({}, '', url);
+  async function loadLocale(lang) {
+    if (cache.has(lang)) return cache.get(lang);
+    const res = await fetch(LOCALE_URL(lang));
+    if (!res.ok) throw new Error(`Locale not found: ${lang}`);
+    const data = await res.json();
+    cache.set(lang, data);
+    return data;
   }
 
-  document.querySelectorAll('.lang-btn').forEach((btn) => {
-    btn.addEventListener('click', () => setLang(btn.dataset.lang));
-  });
+  function populateSelect() {
+    selectEl.innerHTML = meta.languages
+      .map(
+        (l) =>
+          `<option value="${l.code}"${l.code === currentLang ? ' selected' : ''}>${escapeHtml(l.name)}</option>`,
+      )
+      .join('');
+  }
 
-  setLang(getInitialLang());
+  async function setLang(lang, { updateUrl = true } = {}) {
+    if (!supported.includes(lang)) return;
+
+    currentLang = lang;
+    localStorage.setItem(STORAGE_KEY, lang);
+    selectEl.value = lang;
+
+    loadingEl.hidden = false;
+    termsEl.hidden = true;
+
+    try {
+      let data;
+      try {
+        data = await loadLocale(lang);
+      } catch {
+        if (lang !== DEFAULT_LANG) {
+          await setLang(DEFAULT_LANG);
+          return;
+        }
+        throw new Error(`Locale not found: ${lang}`);
+      }
+      renderTerms(data, lang);
+      if (updateUrl) {
+        const url = new URL(window.location.href);
+        url.searchParams.set('lang', lang);
+        window.history.replaceState({}, '', url);
+      }
+    } catch (err) {
+      termsEl.innerHTML = `<p class="error">${escapeHtml(err.message)}</p>`;
+    } finally {
+      loadingEl.hidden = true;
+      termsEl.hidden = false;
+    }
+  }
+
+  async function init() {
+    const metaRes = await fetch(META_URL);
+    if (!metaRes.ok) throw new Error('Failed to load languages');
+    meta = await metaRes.json();
+    supported = meta.languages.map((l) => l.code);
+    langMap = new Map(meta.languages.map((l) => [l.code, l]));
+
+    populateSelect();
+    selectEl.addEventListener('change', () => setLang(selectEl.value));
+
+    currentLang = getInitialLang();
+    await setLang(currentLang, { updateUrl: false });
+    const url = new URL(window.location.href);
+    if (url.searchParams.get('lang') !== currentLang) {
+      url.searchParams.set('lang', currentLang);
+      window.history.replaceState({}, '', url);
+    }
+  }
+
+  init().catch((err) => {
+    termsEl.innerHTML = `<p class="error">${escapeHtml(err.message)}</p>`;
+  });
 })();

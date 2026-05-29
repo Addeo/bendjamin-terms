@@ -1,0 +1,654 @@
+{
+  "pageTitle": "Bendgamine — Điều khoản dịch vụ",
+  "title": "Điều khoản dịch vụ",
+  "effectiveDateLabel": "Ngày có hiệu lực",
+  "effectiveDate": "[TBD — Date of Launch]",
+  "lastUpdatedLabel": "Cập nhật lần cuối",
+  "lastUpdated": "[TBD]",
+  "versionLabel": "Phiên bản",
+  "version": "1.0",
+  "footer": "© Bendgamine. Mọi quyền được bảo lưu.",
+  "legalNotice": "Các Điều khoản dịch vụ này dựa trên các thông lệ tốt nhất trong ngành và các yêu cầu pháp lý. Chúng cần được xem xét bởi cố vấn pháp lý có trình độ trước khi thực hiện.",
+  "sections": [
+    {
+      "num": 1,
+      "title": "Thỏa thuận các điều khoản",
+      "blocks": [
+        {
+          "type": "P",
+          "text": "Bằng cách truy cập và sử dụng Bendgamine (\"Dịch vụ\", \"Ứng dụng\", \"Nền tảng\"), bạn đồng ý bị ràng buộc bởi các Điều khoản dịch vụ này (\"Điều khoản\"). Nếu bạn không đồng ý với bất kỳ phần nào trong các điều khoản này, bạn không thể truy cập Dịch vụ."
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine là một nền tảng tự hoàn thiện kỹ thuật số dựa trên phương pháp phát triển đức tính của Benjamin Franklin."
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Mô tả dịch vụ",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "2.1 Chức năng cốt lõi"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine cung cấp:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Triển khai kỹ thuật số hệ thống 13 đức tính của Benjamin Franklin",
+            "Giao diện lập kế hoạch và theo dõi hành động hàng tuần",
+            "Đề xuất được cá nhân hóa do AI cung cấp",
+            "Phân tích và báo cáo tiến độ",
+            "Tạo đức tính tùy chỉnh và quản lý dự án"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "2.2 Tính sẵn có của dịch vụ"
+        },
+        {
+          "type": "P",
+          "text": "Chúng tôi cố gắng duy trì Dịch vụ 24/7 nhưng không thể đảm bảo quyền truy cập không bị gián đoạn. Dịch vụ có thể tạm thời không khả dụng do bảo trì, cập nhật hoặc sự cố kỹ thuật."
+        },
+        {
+          "type": "h3",
+          "text": "2.3 Gói đăng ký"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Gói miễn phí: Chức năng hạn chế với các tính năng cơ bản",
+            "Gói cao cấp: Các tính năng nâng cao và đề xuất AI",
+            "Gói Pro: Đầy đủ chức năng với quyền truy cập không giới hạn"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Tài khoản người dùng và đăng ký",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "3.1 Tạo tài khoản"
+        },
+        {
+          "type": "P",
+          "text": "Để sử dụng một số tính năng nhất định, bạn phải tạo tài khoản bằng cách cung cấp:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Địa chỉ email hợp lệ",
+            "Mật khẩu an toàn đáp ứng yêu cầu của chúng tôi",
+            "Họ và tên",
+            "Chấp nhận các Điều khoản và Chính sách quyền riêng tư này"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.2 Trách nhiệm tài khoản"
+        },
+        {
+          "type": "P",
+          "text": "Bạn chịu trách nhiệm về:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Duy trì tính bảo mật của thông tin đăng nhập tài khoản của bạn",
+            "Tất cả các hoạt động diễn ra trong tài khoản của bạn",
+            "Thông báo ngay cho chúng tôi về bất kỳ việc sử dụng trái phép nào",
+            "Đảm bảo tính chính xác của thông tin tài khoản của bạn"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.3 Yêu cầu về độ tuổi"
+        },
+        {
+          "type": "P",
+          "text": "Bạn phải ít nhất 13 tuổi để sử dụng Dịch vụ. Người dùng dưới 18 tuổi cần có sự đồng ý của cha mẹ."
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Chính sách sử dụng được chấp nhận",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "4.1 Sử dụng được phép"
+        },
+        {
+          "type": "P",
+          "text": "Bạn có thể sử dụng Dịch vụ cho:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Tự hoàn thiện cá nhân và phát triển đức hạnh",
+            "Theo dõi hành động và tiến trình hàng ngày của bạn",
+            "Thiết lập và đạt được mục tiêu cá nhân",
+            "Truy cập thông tin chi tiết và đề xuất do AI tạo"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.2 Các hoạt động bị cấm"
+        },
+        {
+          "type": "P",
+          "text": "Bạn có thể không:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Vi phạm bất kỳ luật hoặc quy định hiện hành nào",
+            "Xâm phạm quyền sở hữu trí tuệ",
+            "Tải lên mã độc hại hoặc cố gắng hack Dịch vụ",
+            "Tạo nhiều tài khoản để tránh các giới hạn",
+            "Chia sẻ thông tin đăng nhập tài khoản với người khác",
+            "Sử dụng Dịch vụ cho mục đích thương mại mà không được phép",
+            "Quấy rối, lạm dụng hoặc làm hại người dùng khác",
+            "Cố gắng thiết kế ngược Dịch vụ"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.3 Tiêu chuẩn nội dung"
+        },
+        {
+          "type": "P",
+          "text": "Tất cả nội dung bạn gửi phải:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Là sáng tạo ban đầu của riêng bạn hoặc được cấp phép hợp lệ",
+            "Không chứa tài liệu bất hợp pháp, có hại hoặc xúc phạm",
+            "Tôn trọng quyền riêng tư và quyền của người khác",
+            "Tuân thủ Nguyên tắc cộng đồng của chúng tôi"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Quyền sở hữu trí tuệ",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "5.1 Quyền của chúng tôi"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine sở hữu mọi quyền đối với:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Nền tảng và phần mềm dịch vụ",
+            "Việc thực hiện phương pháp đạo đức của Franklin",
+            "Thuật toán AI và hệ thống đề xuất",
+            "Nhãn hiệu, logo và thương hiệu",
+            "Tất cả nội dung và tài liệu liên quan đến Dịch vụ"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.2 Quyền của bạn"
+        },
+        {
+          "type": "P",
+          "text": "Bạn giữ quyền sở hữu:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Dữ liệu cá nhân và nội dung bạn tạo",
+            "Dữ liệu và tiến trình theo dõi đức hạnh của bạn",
+            "Những nhân đức tùy chỉnh và những suy tư cá nhân",
+            "Bất kỳ nội dung gốc nào bạn gửi"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.3 Cấp giấy phép"
+        },
+        {
+          "type": "P",
+          "text": "Bằng cách sử dụng Dịch vụ, bạn cấp cho chúng tôi giấy phép có giới hạn để:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Xử lý dữ liệu của bạn để cung cấp Dịch vụ",
+            "Tạo đề xuất AI dựa trên thói quen sử dụng của bạn",
+            "Tạo phân tích ẩn danh để cải thiện Dịch vụ",
+            "Hiển thị nội dung của bạn trong giao diện Dịch vụ"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Quyền riêng tư và bảo vệ dữ liệu",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "6.1 Chính sách quyền riêng tư"
+        },
+        {
+          "type": "P",
+          "text": "Sự riêng tư của bạn rất quan trọng đối với chúng tôi. Vui lòng xem lại Chính sách quyền riêng tư của chúng tôi, chính sách này cũng chi phối việc bạn sử dụng Dịch vụ."
+        },
+        {
+          "type": "h3",
+          "text": "6.2 Thu thập dữ liệu"
+        },
+        {
+          "type": "P",
+          "text": "Chúng tôi thu thập và xử lý dữ liệu như được mô tả trong Chính sách quyền riêng tư của mình, bao gồm:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Thông tin tài khoản và tùy chọn",
+            "Dữ liệu theo dõi đức hạnh và hành động hàng ngày",
+            "Mô hình sử dụng và phân tích",
+            "Thông tin thiết bị và kỹ thuật"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "6.3 Bảo mật dữ liệu"
+        },
+        {
+          "type": "P",
+          "text": "Chúng tôi triển khai các biện pháp bảo mật tiêu chuẩn ngành để bảo vệ dữ liệu của bạn, bao gồm mã hóa, lưu trữ an toàn và kiểm soát quyền truy cập."
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Điều khoản đăng ký và thanh toán",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "7.1 Gói đăng ký"
+        },
+        {
+          "type": "P",
+          "text": "Thông tin chi tiết về gói đăng ký, tính năng và giá cả của chúng tôi có sẵn trên trang web của chúng tôi và trong Dịch vụ."
+        },
+        {
+          "type": "h3",
+          "text": "7.2 Dùng thử miễn phí"
+        },
+        {
+          "type": "P",
+          "text": "Người dùng mới có thể đủ điều kiện được dùng thử miễn phí trong thời gian. Điều khoản dùng thử sẽ được tiết lộ rõ ​​ràng khi đăng ký."
+        },
+        {
+          "type": "h3",
+          "text": "7.3 Lập hóa đơn và thanh toán"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Đăng ký được thanh toán trước hàng tháng hoặc hàng năm",
+            "Thanh toán sẽ đến hạn ngay khi kích hoạt đăng ký",
+            "Chúng tôi sử dụng bộ xử lý thanh toán của bên thứ ba (Stripe) để giao dịch an toàn",
+            "Tất cả các khoản phí đều không được hoàn lại trừ khi có yêu cầu của pháp luật hoặc Chính sách hoàn tiền của chúng tôi"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "7.4 Tự động gia hạn"
+        },
+        {
+          "type": "P",
+          "text": "Đăng ký tự động gia hạn trừ khi bị hủy trước ngày gia hạn. Bạn có thể hủy bất kỳ lúc nào thông qua cài đặt tài khoản của mình."
+        },
+        {
+          "type": "h3",
+          "text": "7.5 Thay đổi giá"
+        },
+        {
+          "type": "P",
+          "text": "Chúng tôi có thể sửa đổi giá đăng ký nếu thông báo trước 30 ngày. Những thay đổi áp dụng cho các chu kỳ thanh toán tiếp theo."
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title": "Hủy bỏ và chấm dứt",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "8.1 Quyền hủy bỏ của bạn"
+        },
+        {
+          "type": "P",
+          "text": "Bạn có thể hủy đăng ký bất kỳ lúc nào thông qua cài đặt tài khoản của mình. Việc hủy bỏ có hiệu lực vào cuối thời hạn thanh toán hiện tại của bạn."
+        },
+        {
+          "type": "h3",
+          "text": "8.2 Quyền chấm dứt của chúng tôi"
+        },
+        {
+          "type": "P",
+          "text": "Chúng tôi có thể đình chỉ hoặc chấm dứt tài khoản của bạn nếu bạn:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Vi phạm các Điều khoản dịch vụ này",
+            "Tham gia vào các hoạt động gian lận hoặc bất hợp pháp",
+            "Xâm phạm tính bảo mật hoặc tính toàn vẹn của Dịch vụ",
+            "Không thanh toán các khoản phí bắt buộc"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "8.3 Hiệu lực của việc chấm dứt"
+        },
+        {
+          "type": "P",
+          "text": "Khi chấm dứt:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Quyền truy cập của bạn vào Dịch vụ sẽ chấm dứt",
+            "Chúng tôi có thể xóa tài khoản và dữ liệu của bạn sau một khoảng thời gian hợp lý",
+            "Bạn có thể yêu cầu xuất dữ liệu trước khi chấm dứt",
+            "Một số quy định của các Điều khoản này sẽ có hiệu lực sau khi chấm dứt"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "title": "AI và ra quyết định tự động",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "9.1 Khuyến nghị về AI"
+        },
+        {
+          "type": "P",
+          "text": "Dịch vụ của chúng tôi sử dụng trí tuệ nhân tạo để cung cấp các đề xuất được cá nhân hóa dựa trên:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Các mẫu theo dõi đức hạnh của bạn",
+            "Lịch sử đạt được mục tiêu",
+            "Hành vi sử dụng và sở thích",
+            "Dữ liệu ẩn danh từ người dùng khác"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.2 Hạn chế của AI"
+        },
+        {
+          "type": "P",
+          "text": "Khuyến nghị của AI là:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Chỉ gợi ý, không phải lời khuyên chuyên nghiệp",
+            "Dựa trên phân tích thuật toán, không phải chuyên môn của con người",
+            "Có thể có lỗi và hạn chế",
+            "Không phù hợp cho hướng dẫn y tế, trị liệu hoặc chuyên môn"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.3 Giám sát của con người"
+        },
+        {
+          "type": "P",
+          "text": "Bạn thừa nhận rằng:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Hệ thống AI có thể mắc lỗi",
+            "Bạn có trách nhiệm đánh giá và hành động theo các khuyến nghị",
+            "Bạn nên tham khảo ý kiến ​​​​của các chuyên gia có trình độ cho những mối quan tâm nghiêm trọng",
+            "Chúng tôi không đảm bảo tính chính xác của nội dung do AI tạo ra"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "title": "Tuyên bố từ chối trách nhiệm và hạn chế",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "10.1 Tuyên bố từ chối trách nhiệm về dịch vụ"
+        },
+        {
+          "type": "mũ lưỡi trai",
+          "text": "DỊCH VỤ ĐƯỢC CUNG CẤP \"NGUYÊN TRẠNG\" MÀ KHÔNG CÓ BẤT CỨ HÌNH THỨC BẢO ĐẢM NÀO. CHÚNG TÔI TỪ CHỐI TẤT CẢ CÁC BẢO ĐẢM, RÕ RÀNG HAY NGỤ Ý, BAO GỒM KHẢ NĂNG CÓ THỂ BÁN, SỰ PHÙ HỢP CHO MỘT MỤC ĐÍCH CỤ THỂ VÀ KHÔNG VI PHẠM."
+        },
+        {
+          "type": "h3",
+          "text": "10.2 Không có lời khuyên chuyên nghiệp"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine không thể thay thế cho:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Dịch vụ tâm lý hoặc trị liệu chuyên nghiệp",
+            "Tư vấn hoặc điều trị y tế",
+            "Tư vấn tài chính hoặc pháp lý",
+            "Hướng dẫn giáo dục hoặc nghề nghiệp"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "10.3 Tuyên bố từ chối trách nhiệm về kết quả"
+        },
+        {
+          "type": "P",
+          "text": "Chúng tôi không đảm bảo rằng việc sử dụng Dịch vụ sẽ:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Cải thiện kết quả phát triển cá nhân của bạn",
+            "Đạt được mục tiêu hoặc kết quả cụ thể",
+            "Cung cấp dự đoán chính xác về sự tiến bộ của bạn",
+            "Thay thế hướng dẫn hoặc điều trị chuyên môn"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "title": "Giới hạn trách nhiệm pháp lý",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "11.1 Giới hạn trách nhiệm pháp lý"
+        },
+        {
+          "type": "mũ lưỡi trai",
+          "text": "TRONG PHẠM VI TỐI ĐA ĐƯỢC LUẬT PHÁP CHO PHÉP, TRÁCH NHIỆM PHÁP LÝ CỦA CHÚNG TÔI SẼ KHÔNG VƯỢT QUÁ SỐ TIỀN BẠN THANH TOÁN CHO DỊCH VỤ TRONG 12 THÁNG TRƯỚC KHI YÊU CẦU."
+        },
+        {
+          "type": "h3",
+          "text": "11.2 Thiệt hại bị loại trừ"
+        },
+        {
+          "type": "P",
+          "text": "CHÚNG TÔI SẼ KHÔNG CHỊU TRÁCH NHIỆM VỀ:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "THIỆT HẠI GIÁN TIẾP, NGẪU NHIÊN HOẶC DO HẬU QUẢ",
+            "MẤT LỢI NHUẬN, DỮ LIỆU HOẶC CƠ HỘI KINH DOANH",
+            "TỔN THƯƠNG CÁ NHÂN HOẶC ĐAU ĐAU CẢM XÚC",
+            "THIỆT HẠI PHÁT SINH TỪ GIÁN ĐOẠN DỊCH VỤ"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "11.3 Bất khả kháng"
+        },
+        {
+          "type": "P",
+          "text": "Chúng tôi không chịu trách nhiệm về sự chậm trễ hoặc trục trặc do các tình huống nằm ngoài tầm kiểm soát hợp lý của chúng tôi, bao gồm thiên tai, hành động của chính phủ hoặc trục trặc cơ sở hạ tầng kỹ thuật."
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "title": "Bồi thường",
+      "blocks": [
+        {
+          "type": "P",
+          "text": "Bạn đồng ý bồi thường và giữ cho chúng tôi không bị tổn hại trước những khiếu nại phát sinh từ:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Việc bạn sử dụng Dịch vụ",
+            "Vi phạm các Điều khoản này",
+            "Xâm phạm quyền của bên thứ ba",
+            "Nội dung hoặc hoạt động của bạn trên Dịch vụ"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "title": "Giải quyết tranh chấp",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "13.1 Luật điều chỉnh"
+        },
+        {
+          "type": "P",
+          "text": "Các Điều khoản này được điều chỉnh bởi luật pháp của [Khu vực tài phán — TBD], bất kể xung đột với các nguyên tắc luật pháp."
+        },
+        {
+          "type": "h3",
+          "text": "13.2 Trọng tài"
+        },
+        {
+          "type": "P",
+          "text": "Mọi tranh chấp sẽ được giải quyết thông qua trọng tài có tính ràng buộc thay vì thủ tục tố tụng tại tòa án, ngoại trừ:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Tranh chấp sở hữu trí tuệ",
+            "Các vấn đề của tòa án khiếu nại nhỏ",
+            "Yêu cầu cứu trợ khẩn cấp"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "13.3 Miễn trừ Hành động Tập thể"
+        },
+        {
+          "type": "P",
+          "text": "Bạn đồng ý không tham gia vào các vụ kiện tập thể chống lại chúng tôi."
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "title": "Quy định chung",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "14.1 Toàn bộ Thỏa thuận"
+        },
+        {
+          "type": "P",
+          "text": "Các Điều khoản này, cùng với Chính sách quyền riêng tư của chúng tôi và mọi điều khoản bổ sung, tạo thành toàn bộ thỏa thuận giữa bạn và Bendgamine."
+        },
+        {
+          "type": "h3",
+          "text": "14.2 Sửa đổi Điều khoản"
+        },
+        {
+          "type": "P",
+          "text": "Chúng tôi có thể sửa đổi các Điều khoản này bằng cách:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Đăng các Điều khoản cập nhật trên trang web của chúng tôi",
+            "Cung cấp thông báo qua Dịch vụ hoặc email",
+            "Yêu cầu chấp nhận Điều khoản mới để tiếp tục sử dụng"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "14.3 Tính tách rời"
+        },
+        {
+          "type": "P",
+          "text": "Nếu bất kỳ điều khoản nào trong các Điều khoản này được phát hiện là không thể thực thi được thì các điều khoản còn lại sẽ tiếp tục có hiệu lực đầy đủ."
+        },
+        {
+          "type": "h3",
+          "text": "14.4 Nhiệm vụ"
+        },
+        {
+          "type": "P",
+          "text": "Chúng tôi có thể chuyển nhượng các Điều khoản này cho bất kỳ chi nhánh hoặc người kế thừa nào. Bạn không được chuyển nhượng quyền của mình nếu không có sự đồng ý bằng văn bản của chúng tôi."
+        },
+        {
+          "type": "h3",
+          "text": "14.5 Miễn trừ"
+        },
+        {
+          "type": "P",
+          "text": "Việc chúng tôi không thực thi bất kỳ điều khoản nào không cấu thành sự từ bỏ các quyền của chúng tôi."
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "num": 15,
+    "title": "Thông tin liên hệ",
+    "intro": "Đối với các câu hỏi về Điều khoản dịch vụ này:",
+    "emailLabel": "E-mail",
+    "email": "legal@bendgamine.com",
+    "addressLabel": "Địa chỉ",
+    "address": "[Company Address — TBD]",
+    "supportLabel": "Ủng hộ",
+    "support": "supp0rt.serg@yandex.com"
+  },
+  "acknowledgment": {
+    "num": 16,
+    "title": "Lời cảm ơn",
+    "intro": "Bằng cách sử dụng Bendgamine, bạn thừa nhận rằng:",
+    "items": [
+      "Bạn đã đọc và hiểu các Điều khoản này",
+      "Bạn đồng ý bị ràng buộc bởi các Điều khoản này",
+      "Bạn có đủ khả năng hợp pháp để tham gia vào thỏa thuận này",
+      "Bạn sẽ tuân thủ tất cả các luật và quy định hiện hành"
+    ]
+  }
+}

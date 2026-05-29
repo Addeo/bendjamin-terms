@@ -1,0 +1,654 @@
+{
+  "pageTitle": "Bendgamine – Nutzungsbedingungen",
+  "title": "Nutzungsbedingungen",
+  "effectiveDateLabel": "Datum des Inkrafttretens",
+  "effectiveDate": "[TBD — Date of Launch]",
+  "lastUpdatedLabel": "Zuletzt aktualisiert",
+  "lastUpdated": "[TBD]",
+  "versionLabel": "Version",
+  "version": "1.0",
+  "footer": "© Bendgamine. Alle Rechte vorbehalten.",
+  "legalNotice": "Diese Nutzungsbedingungen basieren auf branchenüblichen Best Practices und gesetzlichen Anforderungen. Sie sollten vor der Umsetzung von einem qualifizierten Rechtsberater überprüft werden.",
+  "sections": [
+    {
+      "num": 1,
+      "title": "Zustimmung zu den Bedingungen",
+      "blocks": [
+        {
+          "type": "P",
+          "text": "Durch den Zugriff auf und die Nutzung von Bendgamine („Dienst“, „App“, „Plattform“) erklären Sie sich mit diesen Nutzungsbedingungen („Bedingungen“) einverstanden. Wenn Sie mit einem Teil dieser Bedingungen nicht einverstanden sind, dürfen Sie nicht auf den Dienst zugreifen."
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine ist eine digitale Plattform zur Selbstverbesserung, die auf der Tugendentwicklungsmethodik von Benjamin Franklin basiert."
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Beschreibung des Dienstes",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "2.1 Kernfunktionalität"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine bietet:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Digitale Umsetzung des 13-Tugenden-Systems von Benjamin Franklin",
+            "Wöchentliche Planungs- und Aktionsverfolgungsschnittstelle",
+            "KI-gestützte personalisierte Empfehlungen",
+            "Fortschrittsanalyse und Berichterstattung",
+            "Individuelle Tugenderstellung und Projektmanagement"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "2.2 Serviceverfügbarkeit"
+        },
+        {
+          "type": "P",
+          "text": "Wir bemühen uns, den Dienst rund um die Uhr verfügbar zu halten, können jedoch keinen unterbrechungsfreien Zugriff garantieren. Der Dienst kann aufgrund von Wartungsarbeiten, Aktualisierungen oder technischen Problemen vorübergehend nicht verfügbar sein."
+        },
+        {
+          "type": "h3",
+          "text": "2.3 Abonnementpläne"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Kostenloser Plan: Eingeschränkte Funktionalität mit Grundfunktionen",
+            "Premium-Plan: Erweiterte Funktionen und KI-Empfehlungen",
+            "Pro-Plan: Volle Funktionalität mit unbegrenztem Zugriff"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Benutzerkonten und Registrierung",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "3.1 Kontoerstellung"
+        },
+        {
+          "type": "P",
+          "text": "Um bestimmte Funktionen nutzen zu können, müssen Sie ein Konto erstellen, indem Sie Folgendes angeben:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Gültige E-Mail-Adresse",
+            "Sicheres Passwort, das unseren Anforderungen entspricht",
+            "Vor- und Nachname",
+            "Annahme dieser Bedingungen und Datenschutzbestimmungen"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.2 Kontoverantwortung"
+        },
+        {
+          "type": "P",
+          "text": "Sie sind verantwortlich für:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Wahrung der Vertraulichkeit Ihrer Kontodaten",
+            "Alle Aktivitäten, die unter Ihrem Konto stattfinden",
+            "Informieren Sie uns unverzüglich über jede unbefugte Nutzung",
+            "Gewährleistung der Richtigkeit Ihrer Kontoinformationen"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.3 Altersanforderungen"
+        },
+        {
+          "type": "P",
+          "text": "Um den Dienst nutzen zu können, müssen Sie mindestens 13 Jahre alt sein. Benutzer unter 18 Jahren benötigen die Zustimmung der Eltern."
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Richtlinien zur akzeptablen Nutzung",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "4.1 Zulässige Nutzungen"
+        },
+        {
+          "type": "P",
+          "text": "Sie können den Dienst nutzen für:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Persönliche Selbstverbesserung und Tugendentwicklung",
+            "Verfolgen Sie Ihre täglichen Aktionen und Fortschritte",
+            "Persönliche Ziele setzen und erreichen",
+            "Zugriff auf KI-generierte Erkenntnisse und Empfehlungen"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.2 Verbotene Aktivitäten"
+        },
+        {
+          "type": "P",
+          "text": "Sie dürfen nicht:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Verstoßen Sie gegen geltende Gesetze oder Vorschriften",
+            "Verletzen Sie geistige Eigentumsrechte",
+            "Laden Sie schädlichen Code hoch oder versuchen Sie, den Dienst zu hacken",
+            "Erstellen Sie mehrere Konten, um Einschränkungen zu umgehen",
+            "Teilen Sie Ihre Kontodaten mit anderen",
+            "Den Dienst ohne Genehmigung für kommerzielle Zwecke nutzen",
+            "Andere Benutzer belästigen, missbrauchen oder verletzen",
+            "Versuchen Sie, den Dienst zurückzuentwickeln"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.3 Inhaltsstandards"
+        },
+        {
+          "type": "P",
+          "text": "Alle von Ihnen eingereichten Inhalte müssen:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Seien Sie Ihre eigene Originalkreation oder ordnungsgemäß lizenziert",
+            "Enthält kein illegales, schädliches oder anstößiges Material",
+            "Respektieren Sie die Privatsphäre und Rechte anderer",
+            "Halten Sie sich an unsere Community-Richtlinien"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Geistige Eigentumsrechte",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "5.1 Unsere Rechte"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine besitzt alle Rechte an:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Die Serviceplattform und Software",
+            "Franklins Tugendmethodik-Implementierung",
+            "KI-Algorithmen und Empfehlungssysteme",
+            "Marken, Logos und Branding",
+            "Alle dienstbezogenen Inhalte und Materialien"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.2 Ihre Rechte"
+        },
+        {
+          "type": "P",
+          "text": "Sie behalten das Eigentum an:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Von Ihnen erstellte personenbezogene Daten und Inhalte",
+            "Ihre Tugendverfolgungsdaten und Fortschritte",
+            "Individuelle Tugenden und persönliche Reflexionen",
+            "Alle Originalinhalte, die Sie einreichen"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.3 Lizenzgewährung"
+        },
+        {
+          "type": "P",
+          "text": "Durch die Nutzung des Dienstes gewähren Sie uns eine eingeschränkte Lizenz für:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Verarbeiten Sie Ihre Daten zur Bereitstellung des Dienstes",
+            "Generieren Sie KI-Empfehlungen basierend auf Ihren Nutzungsmustern",
+            "Erstellen Sie anonymisierte Analysen zur Serviceverbesserung",
+            "Zeigen Sie Ihre Inhalte innerhalb der Serviceoberfläche an"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Privatsphäre und Datenschutz",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "6.1 Datenschutzrichtlinie"
+        },
+        {
+          "type": "P",
+          "text": "Ihre Privatsphäre ist uns wichtig. Bitte lesen Sie unsere Datenschutzrichtlinie, die auch Ihre Nutzung des Dienstes regelt."
+        },
+        {
+          "type": "h3",
+          "text": "6.2 Datenerfassung"
+        },
+        {
+          "type": "P",
+          "text": "Wir erheben und verarbeiten Daten wie in unserer Datenschutzrichtlinie beschrieben, einschließlich:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Kontoinformationen und Präferenzen",
+            "Tugend-Tracking-Daten und tägliche Aktionen",
+            "Nutzungsmuster und Analysen",
+            "Geräte- und technische Informationen"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "6.3 Datensicherheit"
+        },
+        {
+          "type": "P",
+          "text": "Wir implementieren branchenübliche Sicherheitsmaßnahmen zum Schutz Ihrer Daten, einschließlich Verschlüsselung, sicherer Speicherung und Zugriffskontrollen."
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Abonnementbedingungen und Abrechnung",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "7.1 Abonnementpläne"
+        },
+        {
+          "type": "P",
+          "text": "Detaillierte Informationen zu unseren Abonnementplänen, Funktionen und Preisen finden Sie auf unserer Website und innerhalb des Dienstes."
+        },
+        {
+          "type": "h3",
+          "text": "7.2 Kostenlose Testversion"
+        },
+        {
+          "type": "P",
+          "text": "Neue Benutzer haben möglicherweise Anspruch auf eine kostenlose Testphase. Die Testbedingungen werden bei der Anmeldung klar bekannt gegeben."
+        },
+        {
+          "type": "h3",
+          "text": "7.3 Abrechnung und Zahlung"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Abonnements werden monatlich oder jährlich im Voraus abgerechnet",
+            "Die Zahlung ist sofort nach Aktivierung des Abonnements fällig",
+            "Für sichere Transaktionen nutzen wir Zahlungsabwickler von Drittanbietern (Stripe).",
+            "Alle Gebühren sind nicht erstattungsfähig, es sei denn, dies ist gesetzlich oder in unserer Rückerstattungsrichtlinie vorgeschrieben"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "7.4 Automatische Verlängerung"
+        },
+        {
+          "type": "P",
+          "text": "Abonnements verlängern sich automatisch, sofern sie nicht vor dem Verlängerungsdatum gekündigt werden. Sie können jederzeit über Ihre Kontoeinstellungen kündigen."
+        },
+        {
+          "type": "h3",
+          "text": "7.5 Preisänderungen"
+        },
+        {
+          "type": "P",
+          "text": "Wir können die Abonnementpreise mit einer Vorankündigung von 30 Tagen ändern. Änderungen gelten für nachfolgende Abrechnungszyklen."
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title": "Stornierung und Kündigung",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "8.1 Ihr Widerrufsrecht"
+        },
+        {
+          "type": "P",
+          "text": "Sie können Ihr Abonnement jederzeit über Ihre Kontoeinstellungen kündigen. Die Kündigung wird zum Ende Ihres aktuellen Abrechnungszeitraums wirksam."
+        },
+        {
+          "type": "h3",
+          "text": "8.2 Unser Kündigungsrecht"
+        },
+        {
+          "type": "P",
+          "text": "Wir können Ihr Konto sperren oder kündigen, wenn Sie:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Verstoß gegen diese Nutzungsbedingungen",
+            "Sich an betrügerischen oder illegalen Aktivitäten beteiligen",
+            "Gefährden Sie die Sicherheit oder Integrität des Dienstes",
+            "Die erforderlichen Gebühren werden nicht bezahlt"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "8.3 Wirkung der Kündigung"
+        },
+        {
+          "type": "P",
+          "text": "Bei Kündigung:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Ihr Zugriff auf den Dienst wird beendet",
+            "Wir können Ihr Konto und Ihre Daten nach einer angemessenen Frist löschen",
+            "Sie können vor der Kündigung einen Datenexport beantragen",
+            "Bestimmte Bestimmungen dieser Bedingungen bleiben auch nach der Kündigung bestehen"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "title": "KI und automatisierte Entscheidungsfindung",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "9.1 KI-Empfehlungen"
+        },
+        {
+          "type": "P",
+          "text": "Unser Service nutzt künstliche Intelligenz, um personalisierte Empfehlungen bereitzustellen, basierend auf:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Ihre Tugendverfolgungsmuster",
+            "Zielerreichungshistorie",
+            "Nutzungsverhalten und Präferenzen",
+            "Anonymisierte Daten anderer Benutzer"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.2 KI-Einschränkungen"
+        },
+        {
+          "type": "P",
+          "text": "KI-Empfehlungen sind:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Nur Vorschläge, keine professionelle Beratung",
+            "Basierend auf algorithmischer Analyse, nicht auf menschlichem Fachwissen",
+            "Irrtümer und Einschränkungen vorbehalten",
+            "Nicht für medizinische, therapeutische oder professionelle Beratung geeignet"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.3 Menschliche Aufsicht"
+        },
+        {
+          "type": "P",
+          "text": "Sie erkennen Folgendes an:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "KI-Systeme können Fehler machen",
+            "Sie sind für die Bewertung und Umsetzung von Empfehlungen verantwortlich",
+            "Bei schwerwiegenden Bedenken sollten Sie sich an qualifiziertes Fachpersonal wenden",
+            "Wir übernehmen keine Gewähr für die Richtigkeit von KI-generierten Inhalten"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "title": "Haftungsausschluss und Einschränkungen",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "10.1 Service-Haftungsausschluss"
+        },
+        {
+          "type": "Kappen",
+          "text": "THE SERVICE IS PROVIDED \"AS IS\" WITHOUT WARRANTIES OF ANY KIND. WIR SCHLIESSEN ALLE AUSDRÜCKLICHEN ODER STILLSCHWEIGENDEN GEWÄHRLEISTUNGEN, EINSCHLIESSLICH DER MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG, AUS."
+        },
+        {
+          "type": "h3",
+          "text": "10.2 Keine professionelle Beratung"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamin ist kein Ersatz für:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Professionelle psychologische oder therapeutische Dienstleistungen",
+            "Medizinische Beratung oder Behandlung",
+            "Finanzielle oder rechtliche Beratung",
+            "Bildungs- oder Berufsberatung"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "10.3 Haftungsausschluss für Ergebnisse"
+        },
+        {
+          "type": "P",
+          "text": "Wir garantieren nicht, dass die Nutzung des Dienstes:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Verbessern Sie Ihre persönlichen Entwicklungsergebnisse",
+            "Erreichen Sie bestimmte Ziele oder Ergebnisse",
+            "Geben Sie genaue Vorhersagen über Ihren Fortschritt",
+            "Ersetzen Sie professionelle Beratung oder Behandlung"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "title": "Haftungsbeschränkung",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "11.1 Haftungsbeschränkungen"
+        },
+        {
+          "type": "Kappen",
+          "text": "SOWEIT GESETZLICH ZULÄSSIG, ÜBERSTEIGT UNSERE HAFTUNG NICHT DEN BETRAG, DEN SIE IN DEN 12 MONATEN VOR DER ANSPRÜCHE FÜR DIE DIENSTLEISTUNG GEZAHLT HABEN."
+        },
+        {
+          "type": "h3",
+          "text": "11.2 Ausgeschlossene Schäden"
+        },
+        {
+          "type": "P",
+          "text": "WIR ÜBERNEHMEN KEINE HAFTUNG FÜR:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "INDIREKTE, ZUFÄLLIGE ODER FOLGESCHÄDEN",
+            "VERLUST VON GEWINNEN, DATEN ODER GESCHÄFTSMÖGLICHKEITEN",
+            "PERSONENVERLETZUNG ODER EMOTIONALE BELASTUNG",
+            "SCHÄDEN, DIE AUS DIENSTUNTERBRECHUNGEN ENTSTEHEN"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "11.3 Höhere Gewalt"
+        },
+        {
+          "type": "P",
+          "text": "Wir haften nicht für Verzögerungen oder Ausfälle, die auf Umstände zurückzuführen sind, die außerhalb unserer angemessenen Kontrolle liegen, einschließlich Naturkatastrophen, behördliche Maßnahmen oder Ausfälle der technischen Infrastruktur."
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "title": "Entschädigung",
+      "blocks": [
+        {
+          "type": "P",
+          "text": "Sie erklären sich damit einverstanden, uns von Ansprüchen freizustellen, die sich aus Folgendem ergeben:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Ihre Nutzung des Dienstes",
+            "Verstoß gegen diese Bedingungen",
+            "Verletzung von Rechten Dritter",
+            "Ihre Inhalte oder Aktivitäten im Dienst"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "title": "Streitbeilegung",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "13.1 Anwendbares Recht"
+        },
+        {
+          "type": "P",
+          "text": "Diese Bedingungen unterliegen den Gesetzen von [Jurisdiktion – TBD], ohne Rücksicht auf Kollisionsnormen."
+        },
+        {
+          "type": "h3",
+          "text": "13.2 Schiedsverfahren"
+        },
+        {
+          "type": "P",
+          "text": "Alle Streitigkeiten werden durch ein verbindliches Schiedsverfahren und nicht durch ein Gerichtsverfahren beigelegt, mit Ausnahme von:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Streitigkeiten über geistiges Eigentum",
+            "Gerichtsangelegenheiten für geringfügige Forderungen",
+            "Anträge auf einstweilige Verfügung"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "13.3 Verzicht auf Sammelklagen"
+        },
+        {
+          "type": "P",
+          "text": "Sie erklären sich damit einverstanden, sich nicht an Sammelklagen gegen uns zu beteiligen."
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "title": "Allgemeine Bestimmungen",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "14.1 Gesamte Vereinbarung"
+        },
+        {
+          "type": "P",
+          "text": "Diese Bedingungen stellen zusammen mit unserer Datenschutzrichtlinie und allen zusätzlichen Bedingungen die gesamte Vereinbarung zwischen Ihnen und Bendgamine dar."
+        },
+        {
+          "type": "h3",
+          "text": "14.2 Änderung der Bedingungen"
+        },
+        {
+          "type": "P",
+          "text": "Wir können diese Bedingungen ändern, indem wir:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Veröffentlichung aktualisierter Bedingungen auf unserer Website",
+            "Benachrichtigung über den Dienst oder per E-Mail",
+            "Für die weitere Nutzung ist die Annahme neuer Bedingungen erforderlich"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "14.3 Salvatorische Klausel"
+        },
+        {
+          "type": "P",
+          "text": "Sollte sich herausstellen, dass eine Bestimmung dieser Bedingungen nicht durchsetzbar ist, bleiben die übrigen Bestimmungen in vollem Umfang in Kraft."
+        },
+        {
+          "type": "h3",
+          "text": "14.4 Zuordnung"
+        },
+        {
+          "type": "P",
+          "text": "Wir können diese Bedingungen an jedes verbundene Unternehmen oder seinen Rechtsnachfolger übertragen. Sie dürfen Ihre Rechte nicht ohne unsere schriftliche Zustimmung abtreten."
+        },
+        {
+          "type": "h3",
+          "text": "14.5 Verzicht"
+        },
+        {
+          "type": "P",
+          "text": "Unser Versäumnis, eine Bestimmung durchzusetzen, stellt keinen Verzicht auf unsere Rechte dar."
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "num": 15,
+    "title": "Kontaktinformationen",
+    "intro": "Bei Fragen zu diesen Nutzungsbedingungen:",
+    "emailLabel": "E-Mail",
+    "email": "legal@bendgamine.com",
+    "addressLabel": "Adresse",
+    "address": "[Company Address — TBD]",
+    "supportLabel": "Unterstützung",
+    "support": "supp0rt.serg@yandex.com"
+  },
+  "acknowledgment": {
+    "num": 16,
+    "title": "Anerkennung",
+    "intro": "Durch die Nutzung von Bendgamine erkennen Sie Folgendes an:",
+    "items": [
+      "Sie haben diese Bedingungen gelesen und verstanden",
+      "Sie stimmen zu, an diese Bedingungen gebunden zu sein",
+      "Sie sind rechtlich dazu berechtigt, diese Vereinbarung abzuschließen",
+      "Sie werden alle geltenden Gesetze und Vorschriften einhalten"
+    ]
+  }
+}

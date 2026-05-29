@@ -1,0 +1,654 @@
+{
+  "pageTitle": "Bendgamine — Ketentuan Layanan",
+  "title": "Ketentuan Layanan",
+  "effectiveDateLabel": "Tanggal berlaku",
+  "effectiveDate": "[TBD — Date of Launch]",
+  "lastUpdatedLabel": "Terakhir Diperbarui",
+  "lastUpdated": "[TBD]",
+  "versionLabel": "Versi",
+  "version": "1.0",
+  "footer": "© Bendgamine. Semua hak dilindungi undang-undang.",
+  "legalNotice": "Ketentuan Layanan ini didasarkan pada praktik terbaik industri dan persyaratan hukum. Hal ini harus ditinjau oleh penasihat hukum yang berkualifikasi sebelum diterapkan.",
+  "sections": [
+    {
+      "num": 1,
+      "title": "Persetujuan terhadap Persyaratan",
+      "blocks": [
+        {
+          "type": "P",
+          "text": "Dengan mengakses dan menggunakan Bendgamine (\"Layanan\", \"Aplikasi\", \"Platform\"), Anda setuju untuk terikat oleh Ketentuan Layanan (\"Ketentuan\") ini. Jika Anda tidak setuju dengan bagian mana pun dari ketentuan ini, Anda tidak boleh mengakses Layanan."
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine adalah platform pengembangan diri digital berdasarkan metodologi pengembangan kebajikan Benjamin Franklin."
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Deskripsi Layanan",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "2.1 Fungsi Inti"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine menyediakan:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Implementasi digital dari sistem 13 kebajikan Benjamin Franklin",
+            "Antarmuka perencanaan mingguan dan pelacakan tindakan",
+            "Rekomendasi hasil personalisasi yang didukung AI",
+            "Analisis dan pelaporan kemajuan",
+            "Penciptaan kebajikan khusus dan manajemen proyek"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "2.2 Ketersediaan Layanan"
+        },
+        {
+          "type": "P",
+          "text": "Kami berusaha untuk menjaga Layanan tersedia 24/7, namun tidak dapat menjamin akses tanpa gangguan. Layanan mungkin tidak tersedia untuk sementara karena pemeliharaan, pembaruan, atau masalah teknis."
+        },
+        {
+          "type": "h3",
+          "text": "2.3 Paket Berlangganan"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Paket Gratis: Fungsionalitas terbatas dengan fitur dasar",
+            "Paket Premium: Peningkatan fitur dan rekomendasi AI",
+            "Paket Pro: Fungsionalitas penuh dengan akses tak terbatas"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Akun Pengguna dan Pendaftaran",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "3.1 Pembuatan Akun"
+        },
+        {
+          "type": "P",
+          "text": "Untuk menggunakan fitur tertentu, Anda harus membuat akun dengan menyediakan:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Alamat email yang valid",
+            "Kata sandi aman memenuhi persyaratan kami",
+            "Nama depan dan belakang",
+            "Penerimaan Ketentuan dan Kebijakan Privasi ini"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.2 Tanggung Jawab Akun"
+        },
+        {
+          "type": "P",
+          "text": "Anda bertanggung jawab untuk:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Menjaga kerahasiaan kredensial akun Anda",
+            "Semua aktivitas yang terjadi di bawah akun Anda",
+            "Memberi tahu kami segera jika ada penggunaan yang tidak sah",
+            "Memastikan keakuratan informasi akun Anda"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.3 Persyaratan Usia"
+        },
+        {
+          "type": "P",
+          "text": "Anda harus berusia minimal 13 tahun untuk menggunakan Layanan. Pengguna di bawah 18 tahun memerlukan izin orang tua."
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Kebijakan Penggunaan yang Dapat Diterima",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "4.1 Penggunaan yang Diizinkan"
+        },
+        {
+          "type": "P",
+          "text": "Anda dapat menggunakan Layanan untuk:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Peningkatan diri pribadi dan pengembangan kebajikan",
+            "Melacak tindakan dan kemajuan harian Anda",
+            "Menetapkan dan mencapai tujuan pribadi",
+            "Mengakses wawasan dan rekomendasi yang dihasilkan AI"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.2 Kegiatan yang Dilarang"
+        },
+        {
+          "type": "P",
+          "text": "Anda tidak boleh:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Melanggar hukum atau peraturan apa pun yang berlaku",
+            "Melanggar hak kekayaan intelektual",
+            "Unggah kode berbahaya atau coba retas Layanan",
+            "Buat banyak akun untuk menghindari batasan",
+            "Bagikan kredensial akun dengan orang lain",
+            "Menggunakan Layanan untuk tujuan komersial tanpa izin",
+            "Melecehkan, menyalahgunakan, atau merugikan pengguna lain",
+            "Mencoba merekayasa balik Layanan"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.3 Standar Isi"
+        },
+        {
+          "type": "P",
+          "text": "Semua konten yang Anda kirimkan harus:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Jadilah ciptaan asli Anda sendiri atau berlisensi dengan benar",
+            "Tidak mengandung materi ilegal, berbahaya, atau menyinggung",
+            "Hormati privasi dan hak orang lain",
+            "Patuhi Pedoman Komunitas kami"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Hak Kekayaan Intelektual",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "5.1 Hak Kami"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine memiliki semua hak untuk:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Platform Layanan dan perangkat lunak",
+            "Penerapan metodologi kebajikan Franklin",
+            "Algoritme AI dan sistem rekomendasi",
+            "Merek dagang, logo, dan branding",
+            "Semua konten dan materi terkait Layanan"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.2 Hak Anda"
+        },
+        {
+          "type": "P",
+          "text": "Anda mempertahankan kepemilikan atas:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Data pribadi dan konten yang Anda buat",
+            "Kebajikan Anda melacak data dan kemajuan",
+            "Kebajikan adat dan refleksi pribadi",
+            "Konten asli apa pun yang Anda kirimkan"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.3 Pemberian Lisensi"
+        },
+        {
+          "type": "P",
+          "text": "Dengan menggunakan Layanan, Anda memberi kami lisensi terbatas untuk:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Memproses data Anda untuk menyediakan Layanan",
+            "Hasilkan rekomendasi AI berdasarkan pola penggunaan Anda",
+            "Buat analitik anonim untuk peningkatan Layanan",
+            "Tampilkan konten Anda dalam antarmuka Layanan"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Privasi dan Perlindungan Data",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "6.1 Kebijakan Privasi"
+        },
+        {
+          "type": "P",
+          "text": "Privasi Anda penting bagi kami. Harap tinjau Kebijakan Privasi kami, yang juga mengatur penggunaan Anda atas Layanan."
+        },
+        {
+          "type": "h3",
+          "text": "6.2 Pengumpulan Data"
+        },
+        {
+          "type": "P",
+          "text": "Kami mengumpulkan dan memproses data sebagaimana dijelaskan dalam Kebijakan Privasi kami, termasuk:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Informasi dan preferensi akun",
+            "Data pelacakan kebajikan dan tindakan sehari-hari",
+            "Pola penggunaan dan analitik",
+            "Informasi perangkat dan teknis"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "6.3 Keamanan Data"
+        },
+        {
+          "type": "P",
+          "text": "Kami menerapkan langkah-langkah keamanan standar industri untuk melindungi data Anda, termasuk enkripsi, penyimpanan aman, dan kontrol akses."
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Ketentuan Berlangganan dan Penagihan",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "7.1 Paket Berlangganan"
+        },
+        {
+          "type": "P",
+          "text": "Informasi terperinci tentang paket berlangganan, fitur, dan harga tersedia di situs web kami dan dalam Layanan."
+        },
+        {
+          "type": "h3",
+          "text": "7.2 Uji Coba Gratis"
+        },
+        {
+          "type": "P",
+          "text": "Pengguna baru mungkin memenuhi syarat untuk masa uji coba gratis. Persyaratan uji coba akan diungkapkan dengan jelas saat pendaftaran."
+        },
+        {
+          "type": "h3",
+          "text": "7.3 Penagihan dan Pembayaran"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Langganan ditagih di muka secara bulanan atau tahunan",
+            "Pembayaran jatuh tempo segera setelah aktivasi berlangganan",
+            "Kami menggunakan pemroses pembayaran pihak ketiga (Stripe) untuk transaksi yang aman",
+            "Semua biaya tidak dapat dikembalikan kecuali diwajibkan oleh hukum atau Kebijakan Pengembalian Dana kami"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "7.4 Perpanjangan Otomatis"
+        },
+        {
+          "type": "P",
+          "text": "Langganan diperpanjang secara otomatis kecuali dibatalkan sebelum tanggal perpanjangan. Anda dapat membatalkan kapan saja melalui pengaturan akun Anda."
+        },
+        {
+          "type": "h3",
+          "text": "7.5 Perubahan Harga"
+        },
+        {
+          "type": "P",
+          "text": "Kami dapat mengubah harga berlangganan dengan pemberitahuan 30 hari sebelumnya. Perubahan berlaku untuk siklus penagihan berikutnya."
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title": "Pembatalan dan Pengakhiran",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "8.1 Hak Anda untuk Membatalkan"
+        },
+        {
+          "type": "P",
+          "text": "Anda dapat membatalkan langganan kapan saja melalui pengaturan akun Anda. Pembatalan berlaku pada akhir periode penagihan Anda saat ini."
+        },
+        {
+          "type": "h3",
+          "text": "8.2 Hak Kami untuk Mengakhiri"
+        },
+        {
+          "type": "P",
+          "text": "Kami dapat menangguhkan atau menghentikan akun Anda jika Anda:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Melanggar Ketentuan Layanan ini",
+            "Terlibat dalam aktivitas penipuan atau ilegal",
+            "Membahayakan keamanan atau integritas Layanan",
+            "Gagal membayar biaya yang diperlukan"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "8.3 Pengaruh Penghentian"
+        },
+        {
+          "type": "P",
+          "text": "Setelah penghentian:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Akses Anda ke Layanan akan dihentikan",
+            "Kami dapat menghapus akun dan data Anda setelah jangka waktu yang wajar",
+            "Anda dapat meminta ekspor data sebelum penghentian",
+            "Ketentuan tertentu dalam Ketentuan ini akan tetap berlaku meskipun ada penghentian"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "title": "AI dan Pengambilan Keputusan Otomatis",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "9.1 Rekomendasi AI"
+        },
+        {
+          "type": "P",
+          "text": "Layanan kami menggunakan kecerdasan buatan untuk memberikan rekomendasi yang dipersonalisasi berdasarkan:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Pola pelacakan kebajikan Anda",
+            "Sejarah pencapaian tujuan",
+            "Perilaku dan preferensi penggunaan",
+            "Data anonim dari pengguna lain"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.2 Keterbatasan AI"
+        },
+        {
+          "type": "P",
+          "text": "Rekomendasi AI adalah:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Hanya saran, bukan saran profesional",
+            "Berdasarkan analisis algoritmik, bukan keahlian manusia",
+            "Tunduk pada kesalahan dan keterbatasan",
+            "Tidak cocok untuk bimbingan medis, terapeutik, atau profesional"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.3 Pengawasan Manusia"
+        },
+        {
+          "type": "P",
+          "text": "Anda mengakui bahwa:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Sistem AI mungkin membuat kesalahan",
+            "Anda bertanggung jawab untuk mengevaluasi dan bertindak berdasarkan rekomendasi",
+            "Anda harus berkonsultasi dengan profesional yang berkualifikasi untuk masalah serius",
+            "Kami tidak menjamin keakuratan konten yang dihasilkan AI"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "title": "Penafian dan Batasan",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "10.1 Penafian Layanan"
+        },
+        {
+          "type": "topi",
+          "text": "LAYANAN INI DISEDIAKAN \"APA ADANYA\" TANPA JAMINAN APA PUN. KAMI MENOLAK SEMUA JAMINAN, TERSURAT MAUPUN TERSIRAT, TERMASUK KELAYAKAN UNTUK DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, DAN TANPA PELANGGARAN."
+        },
+        {
+          "type": "h3",
+          "text": "10.2 Tidak Ada Nasihat Profesional"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine bukan pengganti:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Layanan psikologis atau terapeutik profesional",
+            "Nasihat atau pengobatan medis",
+            "Konseling keuangan atau hukum",
+            "Bimbingan pendidikan atau karir"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "10.3 Penafian Hasil"
+        },
+        {
+          "type": "P",
+          "text": "Kami tidak menjamin bahwa penggunaan Layanan akan:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Tingkatkan hasil pengembangan pribadi Anda",
+            "Mencapai tujuan atau hasil tertentu",
+            "Berikan prediksi akurat tentang kemajuan Anda",
+            "Gantikan bimbingan atau pengobatan profesional"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "title": "Batasan Tanggung Jawab",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "11.1 Batas Tanggung Jawab"
+        },
+        {
+          "type": "topi",
+          "text": "SEJAUH DIIZINKAN OLEH HUKUM, TANGGUNG JAWAB KAMI TIDAK AKAN MELEBIHI JUMLAH YANG ANDA BAYARKAN UNTUK LAYANAN DALAM 12 BULAN SEBELUM KLAIM."
+        },
+        {
+          "type": "h3",
+          "text": "11.2 Kerusakan yang Tidak Dikecualikan"
+        },
+        {
+          "type": "P",
+          "text": "KAMI TIDAK BERTANGGUNG JAWAB ATAS:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "KERUGIAN TIDAK LANGSUNG, INSIDENTAL, ATAU KONSEKUENSIAL",
+            "KEHILANGAN KEUNTUNGAN, DATA, ATAU PELUANG BISNIS",
+            "CEDERA PRIBADI ATAU GANGGUAN EMOSIONAL",
+            "KERUGIAN YANG TIMBUL DARI GANGGUAN LAYANAN"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "11.3 Keadaan Kahar"
+        },
+        {
+          "type": "P",
+          "text": "Kami tidak bertanggung jawab atas keterlambatan atau kegagalan karena keadaan di luar kendali wajar kami, termasuk bencana alam, tindakan pemerintah, atau kegagalan infrastruktur teknis."
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "title": "Ganti Rugi",
+      "blocks": [
+        {
+          "type": "P",
+          "text": "Anda setuju untuk mengganti kerugian dan membebaskan kami dari tuntutan yang timbul dari:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Penggunaan Anda atas Layanan",
+            "Pelanggaran terhadap Ketentuan ini",
+            "Pelanggaran hak pihak ketiga",
+            "Konten atau aktivitas Anda di Layanan"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "title": "Penyelesaian Sengketa",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "13.1 Hukum yang Mengatur"
+        },
+        {
+          "type": "P",
+          "text": "Ketentuan ini diatur oleh hukum [Yurisdiksi — TBD], tanpa memperhatikan pertentangan prinsip hukum."
+        },
+        {
+          "type": "h3",
+          "text": "13.2 Arbitrase"
+        },
+        {
+          "type": "P",
+          "text": "Setiap perselisihan akan diselesaikan melalui arbitrase yang mengikat dan bukan melalui proses pengadilan, kecuali untuk:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Sengketa kekayaan intelektual",
+            "Pengadilan tuntutan kecil penting",
+            "Permintaan ganti rugi"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "13.3 Pengabaian Gugatan Kelompok"
+        },
+        {
+          "type": "P",
+          "text": "Anda setuju untuk tidak berpartisipasi dalam tuntutan hukum class action terhadap kami."
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "title": "Ketentuan Umum",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "14.1 Keseluruhan Perjanjian"
+        },
+        {
+          "type": "P",
+          "text": "Ketentuan ini, bersama dengan Kebijakan Privasi kami dan ketentuan tambahan lainnya, merupakan keseluruhan perjanjian antara Anda dan Bendgamine."
+        },
+        {
+          "type": "h3",
+          "text": "14.2 Modifikasi Ketentuan"
+        },
+        {
+          "type": "P",
+          "text": "Kami dapat mengubah Ketentuan ini dengan:"
+        },
+        {
+          "type": "jalan",
+          "items": [
+            "Memposting Ketentuan yang diperbarui di situs web kami",
+            "Memberikan pemberitahuan melalui Layanan atau email",
+            "Memerlukan penerimaan Ketentuan baru untuk penggunaan berkelanjutan"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "14.3 Keterpisahan"
+        },
+        {
+          "type": "P",
+          "text": "Jika ada ketentuan dalam Ketentuan ini yang ditemukan tidak dapat dilaksanakan, ketentuan lainnya akan tetap berlaku penuh."
+        },
+        {
+          "type": "h3",
+          "text": "14.4 Penugasan"
+        },
+        {
+          "type": "P",
+          "text": "Kami dapat mengalihkan Ketentuan ini kepada afiliasi atau penerus mana pun. Anda tidak boleh mengalihkan hak Anda tanpa persetujuan tertulis dari kami."
+        },
+        {
+          "type": "h3",
+          "text": "14.5 Pengabaian"
+        },
+        {
+          "type": "P",
+          "text": "Kegagalan kami untuk menegakkan ketentuan apa pun bukan merupakan pelepasan hak kami."
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "num": 15,
+    "title": "Informasi Kontak",
+    "intro": "Untuk pertanyaan tentang Ketentuan Layanan ini:",
+    "emailLabel": "E-mail",
+    "email": "legal@bendgamine.com",
+    "addressLabel": "Alamat",
+    "address": "[Company Address — TBD]",
+    "supportLabel": "Mendukung",
+    "support": "supp0rt.serg@yandex.com"
+  },
+  "acknowledgment": {
+    "num": 16,
+    "title": "Pengakuan",
+    "intro": "Dengan menggunakan Bendgamine, Anda mengakui bahwa:",
+    "items": [
+      "Anda telah membaca dan memahami Ketentuan ini",
+      "Anda setuju untuk terikat oleh Ketentuan ini",
+      "Anda secara hukum dapat menandatangani perjanjian ini",
+      "Anda akan mematuhi semua hukum dan peraturan yang berlaku"
+    ]
+  }
+}

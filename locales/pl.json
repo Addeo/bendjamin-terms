@@ -1,0 +1,654 @@
+{
+  "pageTitle": "Bendgamine — Warunki świadczenia usług",
+  "title": "Warunki świadczenia usług",
+  "effectiveDateLabel": "Data wejścia w życie",
+  "effectiveDate": "[TBD — Date of Launch]",
+  "lastUpdatedLabel": "Ostatnia aktualizacja",
+  "lastUpdated": "[TBD]",
+  "versionLabel": "Wersja",
+  "version": "1.0",
+  "footer": "© Bendgamine. Wszelkie prawa zastrzeżone.",
+  "legalNotice": "Niniejsze Warunki świadczenia usług opierają się na najlepszych praktykach branżowych i wymaganiach prawnych. Przed wdrożeniem powinny zostać sprawdzone przez wykwalifikowanego radcę prawnego.",
+  "sections": [
+    {
+      "num": 1,
+      "title": "Zgoda na Warunki",
+      "blocks": [
+        {
+          "type": "P",
+          "text": "Uzyskując dostęp i korzystając z Bendgamine („Usługa”, „Aplikacja”, „Platforma”), wyrażasz zgodę na przestrzeganie niniejszych Warunków świadczenia usług („Warunki”). Jeśli nie zgadzasz się z jakąkolwiek częścią niniejszych warunków, nie możesz uzyskać dostępu do Usługi."
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine to cyfrowa platforma samodoskonalenia oparta na metodologii rozwoju cnót Benjamina Franklina."
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title": "Opis usługi",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "2.1 Podstawowa funkcjonalność"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine zapewnia:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Cyfrowe wdrożenie systemu 13 cnót Benjamina Franklina",
+            "Interfejs planowania tygodniowego i śledzenia działań",
+            "Spersonalizowane rekomendacje oparte na sztucznej inteligencji",
+            "Analityka i raportowanie postępów",
+            "Tworzenie niestandardowych cnót i zarządzanie projektami"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "2.2 Dostępność Usługi"
+        },
+        {
+          "type": "P",
+          "text": "Dokładamy wszelkich starań, aby Usługa była dostępna 24 godziny na dobę, 7 dni w tygodniu, ale nie możemy zagwarantować nieprzerwanego dostępu. Usługa może być tymczasowo niedostępna ze względu na prace konserwacyjne, aktualizacje lub problemy techniczne."
+        },
+        {
+          "type": "h3",
+          "text": "2.3 Plany subskrypcyjne"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Plan bezpłatny: ograniczona funkcjonalność z podstawowymi funkcjami",
+            "Plan Premium: ulepszone funkcje i rekomendacje AI",
+            "Plan Pro: Pełna funkcjonalność z nieograniczonym dostępem"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title": "Konta Użytkowników i Rejestracja",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "3.1 Tworzenie konta"
+        },
+        {
+          "type": "P",
+          "text": "Aby korzystać z niektórych funkcji, musisz założyć konto, podając:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Prawidłowy adres e-mail",
+            "Bezpieczne hasło spełniające nasze wymagania",
+            "Imię i nazwisko",
+            "Akceptacja niniejszego Regulaminu i Polityki Prywatności"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.2 Odpowiedzialność za konto"
+        },
+        {
+          "type": "P",
+          "text": "Jesteś odpowiedzialny za:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Zachowanie poufności danych uwierzytelniających Twoje konto",
+            "Wszystkie działania, które mają miejsce na Twoim koncie",
+            "Niezwłoczne powiadamianie nas o każdym nieuprawnionym użyciu",
+            "Zapewnienie dokładności informacji o koncie"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "3.3 Wymagania wiekowe"
+        },
+        {
+          "type": "P",
+          "text": "Aby móc korzystać z Usługi, musisz mieć ukończone 13 lat. Użytkownicy poniżej 18 roku życia wymagają zgody rodziców."
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title": "Zasady dopuszczalnego użytkowania",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "4.1 Dozwolone zastosowania"
+        },
+        {
+          "type": "P",
+          "text": "Możesz korzystać z Usługi w celu:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Samodoskonalenie osobiste i rozwój cnót",
+            "Śledzenie codziennych działań i postępów",
+            "Wyznaczanie i osiąganie celów osobistych",
+            "Dostęp do spostrzeżeń i rekomendacji generowanych przez sztuczną inteligencję"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.2 Czynności zabronione"
+        },
+        {
+          "type": "P",
+          "text": "Nie możesz:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Naruszać obowiązujące przepisy prawa lub regulacje",
+            "Naruszają prawa własności intelektualnej",
+            "Prześlij złośliwy kod lub spróbuj zhakować Usługę",
+            "Utwórz wiele kont, aby ominąć ograniczenia",
+            "Udostępnij dane konta innym osobom",
+            "Korzystaj z Usługi w celach komercyjnych bez zezwolenia",
+            "Nękaj, znęcaj się lub krzywdź innych użytkowników",
+            "Spróbuj przeprowadzić inżynierię wsteczną usługi"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "4.3 Standardy treści"
+        },
+        {
+          "type": "P",
+          "text": "Wszystkie przesyłane treści muszą:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Bądź swoim własnym, oryginalnym dziełem lub odpowiednio licencjonowanym",
+            "Nie mogą zawierać materiałów nielegalnych, szkodliwych ani obraźliwych",
+            "Szanuj prywatność i prawa innych osób",
+            "Przestrzegaj naszych Wytycznych dla społeczności"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title": "Prawa własności intelektualnej",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "5.1 Nasze prawa"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine posiada wszelkie prawa do:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Platforma i oprogramowanie Serwisu",
+            "Wdrożenie metodologii cnót Franklina",
+            "Algorytmy AI i systemy rekomendacji",
+            "Znaki towarowe, logo i branding",
+            "Wszystkie treści i materiały związane z Usługą"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.2 Twoje prawa"
+        },
+        {
+          "type": "P",
+          "text": "Zachowujesz własność:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Dane osobowe i treści, które tworzysz",
+            "Twoje dane śledzące cnotę i postęp",
+            "Cnoty niestandardowe i osobiste refleksje",
+            "Wszelkie oryginalne treści, które prześlesz"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "5.3 Udzielenie licencji"
+        },
+        {
+          "type": "P",
+          "text": "Korzystając z Usługi, udzielasz nam ograniczonej licencji na:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Przetwarzaj Twoje dane w celu świadczenia Usługi",
+            "Generuj rekomendacje AI na podstawie wzorców użytkowania",
+            "Twórz anonimowe analizy w celu ulepszania Usług",
+            "Wyświetlaj swoją zawartość w interfejsie usługi"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title": "Prywatność i ochrona danych",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "6.1 Polityka prywatności"
+        },
+        {
+          "type": "P",
+          "text": "Twoja prywatność jest dla nas ważna. Zapoznaj się z naszą Polityką prywatności, która reguluje również korzystanie z Usługi."
+        },
+        {
+          "type": "h3",
+          "text": "6.2 Gromadzenie danych"
+        },
+        {
+          "type": "P",
+          "text": "Gromadzimy i przetwarzamy dane zgodnie z naszą Polityką prywatności, w tym:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Informacje o koncie i preferencje",
+            "Dane śledzenia cnót i codzienne działania",
+            "Wzorce użycia i analizy",
+            "Urządzenie i informacje techniczne"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "6.3 Bezpieczeństwo danych"
+        },
+        {
+          "type": "P",
+          "text": "Wdrażamy standardowe w branży środki bezpieczeństwa, aby chronić Twoje dane, w tym szyfrowanie, bezpieczne przechowywanie i kontrolę dostępu."
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title": "Warunki subskrypcji i rozliczenia",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "7.1 Plany subskrypcyjne"
+        },
+        {
+          "type": "P",
+          "text": "Szczegółowe informacje na temat naszych planów subskrypcji, funkcji i cen są dostępne na naszej stronie internetowej oraz w ramach Usługi."
+        },
+        {
+          "type": "h3",
+          "text": "7.2 Bezpłatny okres próbny"
+        },
+        {
+          "type": "P",
+          "text": "Nowi użytkownicy mogą kwalifikować się do bezpłatnego okresu próbnego. Warunki okresu próbnego zostaną wyraźnie ujawnione podczas rejestracji."
+        },
+        {
+          "type": "h3",
+          "text": "7.3 Rozliczenia i płatności"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Subskrypcje są rozliczane z góry w trybie miesięcznym lub rocznym",
+            "Płatność należy uregulować natychmiast po aktywacji subskrypcji",
+            "W celu zapewnienia bezpiecznych transakcji korzystamy z zewnętrznych procesorów płatniczych (Stripe).",
+            "Wszelkie opłaty nie podlegają zwrotowi, chyba że jest to wymagane przez prawo lub naszą Politykę zwrotów"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "7.4 Automatyczne odnawianie"
+        },
+        {
+          "type": "P",
+          "text": "Subskrypcje odnawiają się automatycznie, chyba że zostaną anulowane przed datą odnowienia. Możesz anulować subskrypcję w dowolnym momencie w ustawieniach swojego konta."
+        },
+        {
+          "type": "h3",
+          "text": "7.5 Zmiany cen"
+        },
+        {
+          "type": "P",
+          "text": "Możemy zmienić ceny subskrypcji za powiadomieniem z 30-dniowym wyprzedzeniem. Zmiany obowiązują w kolejnych cyklach rozliczeniowych."
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title": "Anulowanie i zakończenie",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "8.1 Twoje prawo do odstąpienia od umowy"
+        },
+        {
+          "type": "P",
+          "text": "Możesz anulować subskrypcję w dowolnym momencie w ustawieniach swojego konta. Anulowanie wchodzi w życie z końcem bieżącego okresu rozliczeniowego."
+        },
+        {
+          "type": "h3",
+          "text": "8.2 Nasze prawo do rozwiązania umowy"
+        },
+        {
+          "type": "P",
+          "text": "Możemy zawiesić lub zamknąć Twoje konto, jeśli:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Naruszaj niniejsze Warunki świadczenia usług",
+            "Angażuj się w oszukańcze lub nielegalne działania",
+            "Naruszyć bezpieczeństwo lub integralność Usługi",
+            "Nie uiścić wymaganych opłat"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "8.3 Skutek rozwiązania umowy"
+        },
+        {
+          "type": "P",
+          "text": "Po rozwiązaniu:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Twój dostęp do Usługi zostanie wstrzymany",
+            "Możemy usunąć Twoje konto i dane po upływie rozsądnego okresu",
+            "Możesz poprosić o eksport danych przed zakończeniem umowy",
+            "Niektóre postanowienia niniejszych Warunków obowiązują po rozwiązaniu umowy"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "title": "Sztuczna inteligencja i automatyczne podejmowanie decyzji",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "9.1 Zalecenia AI"
+        },
+        {
+          "type": "P",
+          "text": "Nasz Serwis wykorzystuje sztuczną inteligencję w celu dostarczania spersonalizowanych rekomendacji w oparciu o:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Twoje wzorce śledzenia cnót",
+            "Historia osiągnięć celów",
+            "Zachowania i preferencje dotyczące użytkowania",
+            "Zanonimizowane dane innych użytkowników"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.2 Ograniczenia AI"
+        },
+        {
+          "type": "P",
+          "text": "Zalecenia AI to:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Tylko sugestie, nie profesjonalne porady",
+            "Na podstawie analizy algorytmicznej, a nie ludzkiej wiedzy",
+            "Z zastrzeżeniem błędów i ograniczeń",
+            "Nie nadaje się do celów medycznych, terapeutycznych ani zawodowych"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "9.3 Nadzór człowieka"
+        },
+        {
+          "type": "P",
+          "text": "Potwierdzasz, że:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Systemy AI mogą popełniać błędy",
+            "Jesteś odpowiedzialny za ocenę rekomendacji i działanie zgodnie z nimi",
+            "W przypadku poważnych problemów należy skonsultować się z wykwalifikowanymi specjalistami",
+            "Nie gwarantujemy dokładności treści generowanych przez sztuczną inteligencję"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "title": "Zastrzeżenia i ograniczenia",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "10.1 Zastrzeżenie dotyczące usług"
+        },
+        {
+          "type": "czapki",
+          "text": "USŁUGA JEST ŚWIADCZONA „TAK JAK JEST”, BEZ ŻADNYCH GWARANCJI. WYŁĄCZAMY WSZELKIE GWARANCJE, WYRAŹNE LUB DOROZUMIANE, W TYM WARTOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU ORAZ NIENARUSZANIA PRAW."
+        },
+        {
+          "type": "h3",
+          "text": "10.2 Brak profesjonalnej porady"
+        },
+        {
+          "type": "P",
+          "text": "Bendgamine nie zastępuje:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Profesjonalne usługi psychologiczne lub terapeutyczne",
+            "Porada lekarska lub leczenie",
+            "Doradztwo finansowe lub prawne",
+            "Poradnictwo edukacyjne lub zawodowe"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "10.3 Zastrzeżenie dotyczące wyników"
+        },
+        {
+          "type": "P",
+          "text": "Nie gwarantujemy, że korzystanie z Usługi spowoduje:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Popraw swoje wyniki w zakresie rozwoju osobistego",
+            "Osiągnij określone cele lub wyniki",
+            "Podaj dokładne prognozy dotyczące swoich postępów",
+            "Zastąp profesjonalne wskazówki lub leczenie"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "title": "Ograniczenie odpowiedzialności",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "11.1 Ograniczenia odpowiedzialności"
+        },
+        {
+          "type": "czapki",
+          "text": "W MAKSYMALNYM ZAKRESIE DOZWOLONYM PRZEZ PRAWO NASZA ODPOWIEDZIALNOŚĆ NIE PRZEKRACZA KWOTY ZAPŁACONEJ ZA USŁUGĘ W CIĄGU 12 MIESIĘCY POPRZEDZAJĄCYCH REKLAMACJĘ."
+        },
+        {
+          "type": "h3",
+          "text": "11.2 Uszkodzenia wyłączone"
+        },
+        {
+          "type": "P",
+          "text": "NIE ODPOWIADAMY ZA:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "SZKODY POŚREDNIE, PRZYPADKOWE LUB WYNIKOWE",
+            "UTRATA ZYSKÓW, DANYCH LUB MOŻLIWOŚCI BIZNESOWYCH",
+            "OBRAŻENIA OSOBISTE LUB TRASĘ EMOCJONALNĄ",
+            "SZKODY WYNIKAJĄCE Z PRZERW w świadczeniu usług"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "11.3 Siła wyższa"
+        },
+        {
+          "type": "P",
+          "text": "Nie ponosimy odpowiedzialności za opóźnienia lub awarie spowodowane okolicznościami poza naszą kontrolą, w tym klęskami żywiołowymi, działaniami rządu lub awariami infrastruktury technicznej."
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "title": "Odszkodowanie",
+      "blocks": [
+        {
+          "type": "P",
+          "text": "Zgadzasz się zabezpieczyć nas przed roszczeniami wynikającymi z:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Korzystanie z Usługi",
+            "Naruszenie niniejszych Warunków",
+            "Naruszenie praw osób trzecich",
+            "Twoje treści lub działania w Serwisie"
+          ]
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "title": "Rozstrzyganie sporów",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "13.1 Obowiązujące prawo"
+        },
+        {
+          "type": "P",
+          "text": "Niniejsze Warunki podlegają prawu [Jurysdykcja – do ustalenia], bez względu na zasady kolizyjne."
+        },
+        {
+          "type": "h3",
+          "text": "13.2 Arbitraż"
+        },
+        {
+          "type": "P",
+          "text": "Wszelkie spory będą rozstrzygane w drodze wiążącego arbitrażu, a nie postępowania sądowego, z wyjątkiem:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Spory dotyczące własności intelektualnej",
+            "Sprawy sądowe dotyczące drobnych roszczeń",
+            "Wnioski o nakaz sądowy"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "13.3 Zrzeczenie się prawa do pozwu zbiorowego"
+        },
+        {
+          "type": "P",
+          "text": "Zgadzasz się nie brać udziału w pozwie zbiorowym przeciwko nam."
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "title": "Postanowienia ogólne",
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "14.1 Całość Umowy"
+        },
+        {
+          "type": "P",
+          "text": "Niniejsze Warunki, wraz z naszą Polityką prywatności i wszelkimi dodatkowymi warunkami, stanowią całość umowy pomiędzy Tobą a Bendgamine."
+        },
+        {
+          "type": "h3",
+          "text": "14.2 Modyfikacja Warunków"
+        },
+        {
+          "type": "P",
+          "text": "Możemy modyfikować niniejsze Warunki poprzez:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Publikowanie zaktualizowanych Warunków na naszej stronie internetowej",
+            "Przesłanie powiadomienia za pośrednictwem Usługi lub poczty elektronicznej",
+            "Wymaganie akceptacji nowych Warunków w celu dalszego korzystania"
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "14.3 Rozdzielność"
+        },
+        {
+          "type": "P",
+          "text": "Jeżeli którekolwiek postanowienie niniejszych Warunków zostanie uznane za niewykonalne, pozostałe postanowienia zachowają pełną moc."
+        },
+        {
+          "type": "h3",
+          "text": "14.4 Przypisanie"
+        },
+        {
+          "type": "P",
+          "text": "Możemy scedować niniejsze Warunki na dowolnego podmiotu stowarzyszonego lub następcę. Nie możesz cedować swoich praw bez naszej pisemnej zgody."
+        },
+        {
+          "type": "h3",
+          "text": "14.5 Zrzeczenie się"
+        },
+        {
+          "type": "P",
+          "text": "Niewyegzekwowanie przez nas któregokolwiek postanowienia nie oznacza zrzeczenia się naszych praw."
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "num": 15,
+    "title": "Informacje kontaktowe",
+    "intro": "W przypadku pytań dotyczących niniejszych Warunków świadczenia usług:",
+    "emailLabel": "E-mail",
+    "email": "legal@bendgamine.com",
+    "addressLabel": "Adres",
+    "address": "[Company Address — TBD]",
+    "supportLabel": "Wsparcie",
+    "support": "supp0rt.serg@yandex.com"
+  },
+  "acknowledgment": {
+    "num": 16,
+    "title": "Potwierdzenie",
+    "intro": "Korzystając z Bendgamine, potwierdzasz, że:",
+    "items": [
+      "Przeczytałeś i zrozumiałeś niniejsze Warunki",
+      "Wyrażasz zgodę na przestrzeganie niniejszych Warunków",
+      "Możesz zgodnie z prawem zawrzeć tę umowę",
+      "Będziesz przestrzegać wszystkich obowiązujących praw i przepisów"
+    ]
+  }
+}
